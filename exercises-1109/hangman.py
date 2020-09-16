@@ -43,9 +43,11 @@ def play (word):
             else:
                 print(f'You have already used letter {letterGuessed}')
         #  print(word, hidden)
+        # asking if there is any letter unguessed
         if all('_' == character for character in word):
             print (f'Contratulations, YOU WIN!!')
             isGameOver = True
+        # asking if attemps are equal to max_attempts
         if attempts >= max_attempts :
             print(f'So sorry, YOU LOOSE!!')
             isGameOver = True
@@ -61,7 +63,7 @@ def main():
     yesNo = input('Wanna start the game?[Yes/No]: ')
     if yesNo.lower() in ['yes', 'no']:
         if yesNo.lower() == 'yes' :
-            play('paciencia')
+            play('paciencia') # set dynamic spanish word generator
         if yesNo.lower() == 'no':
             print('Ok. Sorry for asking')
     else :
