@@ -15,6 +15,5 @@ try:
             print(f'{n + 1} {random.choice(articles)} {random.choice(subjects)} {random.choice(verbs)} {random.choice(adverbs)}')
         else :
             print(f'{n + 1} {random.choice(articles)} {random.choice(subjects)} {random.choice(verbs)}')
-    pass
 except ValueError as  error:
     print('You have not entered a number!.')
