@@ -18,9 +18,11 @@ def play (word):
     isGameOver = False
     # Iterating until game is over
     while not isGameOver:
+        # first part
         print(f'You still have {max_attempts - attempts} attemps remaining')
         hiddenString = ''.join(hidden)
         print(f'The current word is : {hiddenString}')
+        # second part
         print('   _________')
         print('    |     |')
         print('    |    ' + (' O' if attempts > 0 else  ''))
@@ -30,6 +32,7 @@ def play (word):
         print('-------- ')
         letterGuessed = input('Enter a letter:  ')
         print('\n\n\n')
+        # third part
         if letterGuessed in word:
             print(f'Good, the letter {letterGuessed} is in the word.')
             for i in range(len(word)):
@@ -43,6 +46,7 @@ def play (word):
             else:
                 print(f'You have already used letter {letterGuessed}')
         #  print(word, hidden)
+        # fourth part
         # asking if there is any letter unguessed
         if all('_' == character for character in word):
             print (f'Contratulations, YOU WIN!!')
