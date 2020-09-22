@@ -1,0 +1,872 @@
+parte_inclusion_digital,sexo,edad,departamento,ciudad,unidad_educativa,normalista,tecnico,licenciatura,especializacion,maestria,doctorado,otro,experiencia,tiempo_establecimiento,tiempo_establecimiento,area,curso_tecnologia,institucion,tiene_computadora,tipo_computadora,numero_computadoras,tienen_tablets,numero_tablet,origen_computadora,internet_casa,internet_movil,internet_colegio,ultima_semana_internet
+Sí,Masculino,32,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,0,0,0,,20,Más de un año,15,"Ciencia, Tecnología y Producción",1,Aulas Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,38,La Paz,El Alto,PRIMAVERA B,1,0,1,0,0,0,,19,Más de un año,5,Comunidad y Sociedad,1,proyecto Inclusión digital programado por la Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,20,Más de un año,5,Comunidad y Sociedad,1,Elaboración de videos,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,La Paz,La Paz,ABRAHAM REYES FE Y ALEGRIA,0,0,1,0,0,0,,26,Menos de un año,NA,Comunidad y Sociedad,1,Capacitación a profesores.,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,34,La Paz,La Paz,ABRAHAM REYES FE Y ALEGRIA,0,0,1,0,0,0,,10,Más de un año,7,"Ciencia, Tecnología y Producción",1,Tics en educación,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,35,La Paz,El Alto,TUPAC AMARU,1,0,1,0,0,0,,5,Más de un año,2,Comunidad y Sociedad,1,AGETIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,51,La Paz,La Paz,ABRAHAM REYES FE Y ALEGRIA,1,0,1,0,0,0,Diplomado,21,Más de un año,5,Cosmos y Pensamiento,1,Inclucion digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,37,La Paz,El Alto,PUERTO DE MEJILLONES CIUDAD SATELITE,0,0,1,0,0,0,,13,Más de un año,3,Comunidad y Sociedad,1,Ofimatica. Agetic,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,62,Oruro,Oruro,PANTALEON DALENCE 1,1,0,0,0,0,0,,34,Más de un año,30,"Ciencia, Tecnología y Producción",1,Implementación del uso de las tecnologías en aula,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,44,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,0,0,0,,19,Más de un año,11,"Vida, Tierra y Territorio",1,Capacitación con Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,La Paz,El Alto,ABEL ITURRALDE B,1,0,1,0,0,0,,5,Más de un año,3,Cosmos y Pensamiento,1,Unesco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Femenino,55,La Paz,El Alto,PRIMAVERA B,0,0,1,0,0,0,,30,Más de un año,17,Comunidad y Sociedad,1,Free - Mind - Inkscape,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,38,La Paz,El Alto,1RO. DE MAYO TARDE,1,0,0,0,0,0,,10,Más de un año,2,Comunidad y Sociedad,1,"Word, execel, sozi,freemind,inkscape",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,59,Oruro,Oruro,PANTALEON DALENCE 1,1,0,1,0,0,0,,25,Más de un año,21,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,68,La Paz,El Alto,1RO. DE MAYO TARDE,1,0,0,0,0,0,,25,Más de un año,2,Comunidad y Sociedad,1,"capacitacion de manejo de kuass,word,execel,talleres,paquetes de musica, edicion de videos y musica",1,Computadora de escritorio,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,29,La Paz,La Paz,CRISTIANO VIDA NUEVA,0,1,0,0,0,0,,7,Más de un año,4,"Ciencia, Tecnología y Producción",1,Tic en la educación informática y herramientas digitales,1,Computadora portátil,3,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,39,La Paz,El Alto,1RO. DE MAYO TARDE,1,0,0,1,1,0,,8,Menos de un año,NA,Comunidad y Sociedad,1,Manejo de kuass inkscape y sozi,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,55,La Paz,La Paz,ALFREDO VARGAS B,1,0,0,0,0,0,,5,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,2,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,42,La Paz,El Alto,VILLA ALEMANIA,1,0,1,0,1,0,,11,Más de un año,9,"Ciencia, Tecnología y Producción",1,DIPLOMADO EN  INFORMATICA EDUCATIVA,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,30,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,11,Más de un año,6,"Ciencia, Tecnología y Producción",1,manejo de Kuuas,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,Cochabamba,Cochabamba,MERCEDES CANDIA DE OVANDO,1,0,1,0,0,0,,12,Más de un año,2,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,34,La Paz,El Alto,ATIPIRIS MAÑANA,0,0,1,0,0,0,,8,Más de un año,5,Comunidad y Sociedad,1,Quipus ,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,20,Más de un año,20,"Ciencia, Tecnología y Producción",1,profocom,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,34,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,8,Más de un año,3,Cosmos y Pensamiento,1,profocom,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,59,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,0,0,0,0,,32,Más de un año,3,Comunidad y Sociedad,1,Manejo de computadoras,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,47,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,0,0,0,0,,22,Más de un año,13,Comunidad y Sociedad,1,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,62,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,0,0,0,0,,38,Más de un año,8,Comunidad y Sociedad,1,manejo de tics,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+No,Masculino,35,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,14,Más de un año,10,"Ciencia, Tecnología y Producción",1,Curso de Posgrado de Tecnología s en el aula y cursos ofertados por Unefco.,1,Computadora portátil,3,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,33,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,1,0,0,,8,Más de un año,2,Comunidad y Sociedad,1,TICs como isntrumento tecnologico,1,Computadora portátil,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,6,Más de un año,6,Comunidad y Sociedad,1,Clases de capacitacion de Kuas y Profocom.,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,30,La Paz,El Alto,BAUTISTA SAAVEDRA,1,1,1,0,0,0,,7,Más de un año,7,Cosmos y Pensamiento,1,capacitacion sobre el manejo de diferentes programas en los kuas.,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,55,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,30,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,22,Más de un año,7,Cosmos y Pensamiento,1,capacitacion de herramientas de softwar libre,1,Computadora portátil,1,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,0,0,0,0,,31,Más de un año,6,"Ciencia, Tecnología y Producción",1,la capcitacion de la AGETIC que nos dieron recientemente,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,33,La Paz,El Alto,BAUTISTA SAAVEDRA,1,1,1,0,0,0,,7,Más de un año,9,Comunidad y Sociedad,1,manejo de programas y herramientas de soffwart,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,9,Más de un año,5,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,48,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,10,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,1,0,0,,31,Más de un año,9,Comunidad y Sociedad,0,,1,Computadora portátil,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,31,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,7,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,59,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,0,0,0,0,,45,Más de un año,15,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,38,Santa Cruz,Santa Cruz de la Sierra,NACIONAL AYACUCHO,1,0,1,0,0,0,ing. en Informática y Sistemas Administrativos,15,Más de un año,2,Comunidad y Sociedad,1,Tic en Biogeografia-UNEFCO,1,Computadora portátil,4,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,6 DE JUNIO C,1,0,1,0,0,0,,10,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,32,La Paz,El Alto,BAUTISTA SAAVEDRA,0,0,1,0,0,0,,7,Más de un año,7,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,46,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,0,0,0,0,,22,Más de un año,10,Comunidad y Sociedad,1,Alfabetización en medios audiovisuales usando Power Director ,1,Computadora portátil,2,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,55,La Paz,La Paz,CRISTIANO VIDA NUEVA,1,0,1,0,0,0,,31,Más de un año,5,Comunidad y Sociedad,1,Tic's organizada por GAMLP,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,48,La Paz,La Paz,MARIEN GARTEN C,0,0,1,0,0,0,,20,Más de un año,2,Comunidad y Sociedad,1,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,43,La Paz,El Alto,MARTIN CARDENAS HERMOSA B,0,0,1,0,0,0,,25,Más de un año,7,Cosmos y Pensamiento,1,"uso de las TICs, Fundación LA PAZ",1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,37,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,,11,Más de un año,7,Comunidad y Sociedad,1,Audaciti,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,58,La Paz,La Paz,MARIEN GARTEN C,0,0,0,0,1,0,,30,Más de un año,2,Comunidad y Sociedad,1,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,CRISTIANO VIDA NUEVA,1,0,0,0,0,0,,20,Más de un año,3,"Ciencia, Tecnología y Producción",1,,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,El Alto,MARTIN CARDENAS HERMOSA B,0,0,1,0,0,0,,20,Más de un año,2,"Vida, Tierra y Territorio",1,Tics,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,El Alto,VILLA ALEMANIA,1,0,1,1,0,0,,26,Más de un año,15,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Masculino,59,La Paz,El Alto,DR. CARLOS MONTENEGRO,0,0,1,1,0,0,,33,Más de un año,14,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,36,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,1,0,0,0,,9,Más de un año,1,Cosmos y Pensamiento,1,tic en cosmovisiones filosofía y sicológica,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,37,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,1,0,0,0,,10,Más de un año,6,Comunidad y Sociedad,1,Unefco,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,64,Santa Cruz,Santa Cruz de la Sierra,ARZOBISPO DANIEL RIVERO,0,0,1,0,0,0,,36,Más de un año,2,"Vida, Tierra y Territorio",1,sozi y inkscape,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,29,Santa Cruz,Santa Cruz de la Sierra,ARZOBISPO DANIEL RIVERO,1,0,1,0,0,0,,9,Más de un año,5,"Ciencia, Tecnología y Producción",1,1ro y 2do de secundaria,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,54,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,Diplomado,26,Más de un año,19,"Ciencia, Tecnología y Producción",1,Robotica,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+No,Masculino,52,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,33,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,59,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,1,0,0,0,,18,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,58,La Paz,El Alto,DR. CARLOS MONTENEGRO,0,0,1,0,0,0,,34,Más de un año,12,"Vida, Tierra y Territorio",1,Tic,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,1,Herramientas de software libre,0,,NA,0,NA,Por algún familiar,No,Sí,No,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,ARZOBISPO DANIEL RIVERO,1,0,1,1,0,0,,9,Más de un año,4,Cosmos y Pensamiento,1,Agetic,1,Computadora portátil,3,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,33,La Paz,El Alto,HUAYNA POTOSI MAÑANA,0,0,1,0,0,0,,6,Más de un año,3,Comunidad y Sociedad,1,Uso de las tics y manejo de quas,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,57,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,25,Más de un año,17,Comunidad y Sociedad,1,UNEFCO AULA VIRTUAL,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,54,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,1,0,0,0,,17,Más de un año,10,Comunidad y Sociedad,1,Inclusion digital,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,54,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,0,0,0,0,,30,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Femenino,35,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,0,0,0,0,,10,Más de un año,6,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Masculino,38,La Paz,El Alto,16 DE FEBRERO B,0,0,1,0,0,0,,16,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,53,La Paz,El Alto,JOSE ANTONIO PAREDES CANDIA,0,0,1,0,0,0,,30,Más de un año,4,Comunidad y Sociedad,1,Replica de kuaas,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,7,Más de un año,4,"Vida, Tierra y Territorio",1,Uso de las Tic en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,37,La Paz,El Alto,ABEL ITURRALDE B,1,0,0,0,0,0,,13,Más de un año,11,Comunidad y Sociedad,1,Manejo de las Quas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,52,La Paz,El Alto,ABEL ITURRALDE B,1,0,1,0,0,0,,24,Más de un año,19,Comunidad y Sociedad,1,Manejo de tecnologia por UNEFCO,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,La Paz,La Paz,ALFREDO VARGAS B,1,0,1,0,0,0,,21,Más de un año,17,"Ciencia, Tecnología y Producción",1,classroom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Masculino,54,La Paz,La Paz,ALFREDO VARGAS B,1,0,1,0,0,0,,22,Más de un año,19,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,27,Santa Cruz,Santa Cruz de la Sierra,MONSEÑOR SANTISTEVAN I,0,0,1,0,0,0,,3,Más de un año,3,"Ciencia, Tecnología y Producción",1,TICS EN EL AULA,1,Computadora de escritorio,1,0,NA,Por algún familiar,Sí,Sí,No,Sí
+Sí,Femenino,44,Santa Cruz,Santa Cruz de la Sierra,MONSEÑOR SANTISTEVAN I,0,0,1,0,0,0,,13,Menos de un año,NA,Comunidad y Sociedad,1,operador de computadora,1,Computadora portátil,5,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Santa Cruz,Santa Cruz de la Sierra,MONSEÑOR SANTISTEVAN I,0,0,1,0,0,0,,22,Más de un año,22,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,MONSEÑOR SANTISTEVAN I,1,0,1,1,0,0,,10,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,27,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,1,Más de un año,1,Comunidad y Sociedad,1,Aula virtual UNEFCO,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,51,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,24,Más de un año,2,"Ciencia, Tecnología y Producción",1,Manejo de las tics en el aula ,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,34,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,7,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,37,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,14,Más de un año,9,"Ciencia, Tecnología y Producción",1,Uso de herramientas tecnológicas ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,5,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,31,Chuquisaca,Yotala,DOROTEO HERNANDEZ,0,0,1,0,0,0,,7,Más de un año,4,"Ciencia, Tecnología y Producción",1,Manejo de kuuas,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,63,La Paz,La Paz,MARIA INMACULADA A,1,0,1,1,0,0,,38,Más de un año,9,Comunidad y Sociedad,1,El uso de aplicaciones para utilizar el aula TICs.,0,,NA,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Masculino,45,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,1,1,1,0,0,0,,18,Más de un año,12,"Vida, Tierra y Territorio",1,Unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,57,La Paz,La Paz,PEDRO POVEDA A,1,0,0,0,0,0,,30,Más de un año,26,Comunidad y Sociedad,1,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,La Paz,La Paz,PEDRO POVEDA A,1,0,1,1,0,0,,8,Más de un año,3,"Vida, Tierra y Territorio",1,El uso de videos ,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,28,La Paz,La Paz,PEDRO POVEDA A,0,1,1,0,0,0,,7,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,1,0,0,,6,Más de un año,6,Comunidad y Sociedad,1,Segundo,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,45,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,21,Más de un año,19,Comunidad y Sociedad,1,Uso de la tics ,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,23,Más de un año,1,"Ciencia, Tecnología y Producción",1,Robotica,1,Computadora portátil,3,1,4,Otro,Sí,Sí,Sí,Sí
+Sí,Masculino,33,La Paz,La Paz,PEDRO POVEDA A,1,0,0,0,0,0,,8,Más de un año,3,Cosmos y Pensamiento,1,El   que  dió  el  gobierno,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,43,La Paz,La Paz,MAX VALDIVIA,1,0,1,1,0,0,,18,Más de un año,6,"Vida, Tierra y Territorio",1,TIC*S,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,PEDRO POVEDA A,1,0,1,0,0,0,,20,Más de un año,2,Comunidad y Sociedad,1,Manejo de las kuas con los estudiantes,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,36,La Paz,La Paz,MAX VALDIVIA,0,0,1,0,0,0,,9,Menos de un año,NA,Comunidad y Sociedad,1,Ntics del profocom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,28,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,6,Menos de un año,NA,Comunidad y Sociedad,1,Estrategias metodológicas en Ciencias Sociales,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,No
+Sí,Femenino,47,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,20,Más de un año,2,Cosmos y Pensamiento,1,worf y excel lo basico,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,28,La Paz,La Paz,MAX VALDIVIA,1,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,1,NTics profocom ,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,No,No,Sí
+Sí,Masculino,31,La Paz,La Paz,PEDRO POVEDA A,1,1,1,0,0,0,,7,Más de un año,4,"Vida, Tierra y Territorio",1,Aplicaciones interactivas con JClic ,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,42,Cochabamba,Quillacollo,EL PASO A,1,0,1,1,0,0,,19,Más de un año,19,Comunidad y Sociedad,1,Herramientas Tic para el  área  de ciencias  sociales ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,58,La Paz,La Paz,PEDRO POVEDA A,1,0,1,1,0,0,,35,Más de un año,25,Comunidad y Sociedad,1,,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,La Paz,La Paz,MAX VALDIVIA,1,0,1,0,0,0,,6,Más de un año,6,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,37,La Paz,La Paz,PEDRO POVEDA A,1,0,1,0,0,0,,16,Más de un año,13,"Ciencia, Tecnología y Producción",1,Pisos tecnológicos e inclusión digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Masculino,43,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,11,Más de un año,2,"Ciencia, Tecnología y Producción",1,Virtual fusión ,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,28,La Paz,El Alto,U.E. ARMADA BOLIVIANA,1,0,0,0,0,0,,5,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,34,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,10,Más de un año,5,"Vida, Tierra y Territorio",1,,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,18,Más de un año,6,"Ciencia, Tecnología y Producción",1,Ofinatica en Educacion - Fundacion La Paz,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,0,1,0,0,,12,Más de un año,7,Cosmos y Pensamiento,1,"Infogramas, prezi, powton en UNEFCO",1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,45,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,0,0,0,,22,Más de un año,17,"Vida, Tierra y Territorio",1,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,6,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+No,Masculino,38,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,1,0,,11,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,4,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,54,Cochabamba,Quillacollo,EL PASO A,1,0,1,0,0,0,,29,Más de un año,17,Comunidad y Sociedad,1,Tics ,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,34,La Paz,La Paz,25 DE MAYO,1,0,0,0,0,0,,7,Menos de un año,NA,Comunidad y Sociedad,1,Uso de software libre,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,13,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,22,Más de un año,14,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,0,0,0,0,,26,Más de un año,23,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,0,0,0,0,,19,Más de un año,10,Comunidad y Sociedad,1,Finale ,1,Computadora portátil,1,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,31,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,10,Más de un año,4,Comunidad y Sociedad,1,RECURSOS TECNOLÓGICOS DEL AULA EN EL MESC CIENCIAS SOCIALES,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,40,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,16,Más de un año,11,Comunidad y Sociedad,1,Ofimatica,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,43,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,18,Más de un año,5,Cosmos y Pensamiento,1,Capacitación de uso tecnología,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+No,Masculino,55,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,28,Más de un año,7,Cosmos y Pensamiento,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,42,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,11,Más de un año,12,Cosmos y Pensamiento,1,Geohebra audaciti y otros,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,54,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,20,Más de un año,10,Comunidad y Sociedad,1,Agetics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Femenino,32,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,1,0,1,0,0,0,,10,Más de un año,8,"Vida, Tierra y Territorio",1,Uso de las tics en el área de Biología y geografía ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,43,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,1,0,0,,23,Más de un año,16,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,27,Más de un año,17,"Ciencia, Tecnología y Producción",1,Devian. Plataformas educativas. Tics en aula,1,Computadora de escritorio,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,39,La Paz,El Alto,1RO. DE MAYO TARDE,1,0,1,0,0,0,,10,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,33,Más de un año,6,Comunidad y Sociedad,1,Uso de las herramientas tecnologicas,1,Computadora de escritorio,1,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,49,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,0,0,1,0,,25,Más de un año,5,"Ciencia, Tecnología y Producción",1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,No
+Sí,Masculino,39,La Paz,El Alto,ELIZARDO PEREZ TARDE,0,0,1,0,0,0,,6,Más de un año,3,Comunidad y Sociedad,1,Uso de kuas en aula,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,38,La Paz,La Paz,MAX VALDIVIA,1,0,1,0,0,0,,10,Más de un año,6,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,40,La Paz,La Paz,ELISA DE BALLIVIAN,0,0,1,0,0,0,,17,Más de un año,6,Comunidad y Sociedad,1,Java,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,58,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,1,0,,30,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,1,1,1,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,55,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,0,0,0,,27,Más de un año,9,Cosmos y Pensamiento,0,,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,42,La Paz,La Paz,PEDRO POVEDA A,0,0,1,0,0,0,,18,Más de un año,4,Cosmos y Pensamiento,1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,35,La Paz,El Alto,U.E. ARMADA BOLIVIANA,0,0,1,0,0,0,,13,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Manejo de kuas,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,1,0,1,0,0,0,,10,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,41,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,12,Más de un año,4,"Ciencia, Tecnología y Producción",1,inclusion digital,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,39,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,1,0,0,0,0,0,,9,Más de un año,9,Comunidad y Sociedad,1,manejo de excel,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,58,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,1,0,1,1,0,0,,19,Más de un año,19,Comunidad y Sociedad,1,Tecnología de la información y la comunicacion,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,La Paz,El Alto,ADELA ZAMUDIO,1,0,0,0,0,0,,20,Más de un año,7,Comunidad y Sociedad,1,Uso de TIC mediante red ,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,65,La Paz,La Paz,MAX VALDIVIA,1,0,1,0,0,0,,40,Más de un año,4,Comunidad y Sociedad,1,TIC's,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,65,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,0,1,0,0,,30,Más de un año,10,"Ciencia, Tecnología y Producción",1,Cursos en la Normal uso de KUAAs,1,Computadora portátil,2,1,1,Otro,Sí,Sí,No,Sí
+Sí,Masculino,63,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,0,0,0,0,,5,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,48,La Paz,La Paz,CRISTIANO VIDA NUEVA,0,0,1,0,0,0,,19,Más de un año,4,"Ciencia, Tecnología y Producción",1,"Tics, realizar presentaciones ",1,Computadora portátil,1,0,NA,Por cuenta propia,No,No,No,No
+Sí,Femenino,38,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,0,0,1,0,0,0,,11,Más de un año,3,Comunidad y Sociedad,1,INCLUSION DIGITAL,1,Computadora portátil,3,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,0,0,0,0,,17,Más de un año,1,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,39,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,0,0,1,0,0,0,,14,Más de un año,8,"Ciencia, Tecnología y Producción",1,Geogebra,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,48,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,15,Más de un año,6,Comunidad y Sociedad,1,INCLUSION DIGITAL ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,44,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,1,0,1,0,0,0,,15,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,39,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,0,0,0,0,,12,Más de un año,5,Comunidad y Sociedad,1,Elaboración de contenido digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,37,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,8,Más de un año,2,Cosmos y Pensamiento,1,INCLUSION DIGITAL,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,34,La Paz,La Paz,HUGO DAVILA A,0,0,1,0,0,0,,12,Más de un año,9,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,3,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,1,1,1,0,0,0,,4,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,JOSE MANUEL PANDO,1,0,0,0,0,0,,23,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Uso de las tic's,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,La Paz,La Paz,COPACABANA C,1,0,1,0,0,0,,22,Más de un año,3,Comunidad y Sociedad,1,Manejo y utilizacion de kuaas y programas digitales para la asignatura,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,No,Sí,Sí
+Sí,Masculino,62,La Paz,La Paz,MAX VALDIVIA,1,0,0,0,0,0,,39,Más de un año,35,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,No
+Sí,Femenino,56,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,1,0,0,0,0,0,,31,Más de un año,26,"Vida, Tierra y Territorio",1,Uso de las tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,15,Más de un año,6,Comunidad y Sociedad,1,INCLUSION DIGITAL,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,49,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,17,Más de un año,8,"Vida, Tierra y Territorio",1,INCLUSION DIGITAL ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,32,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,4,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,INCLUSION DIGITAL ,1,Computadora de escritorio,2,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,60,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,31,Más de un año,4,Comunidad y Sociedad,1,Tic's en el aula,1,Computadora de escritorio,2,1,3,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,71,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,44,Más de un año,44,"Vida, Tierra y Territorio",1,Inclusión digital,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,31,La Paz,La Paz,HUGO DAVILA A,1,0,1,0,0,0,,8,Más de un año,4,"Vida, Tierra y Territorio",1,Interactuando con las tics ,1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Masculino,38,La Paz,El Alto,JOSE MANUEL PANDO,0,0,1,0,0,0,,12,Más de un año,1,Comunidad y Sociedad,1,Manejo mapas mentales conceptuales,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,60,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,35,Más de un año,11,"Vida, Tierra y Territorio",1,Inclusión digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,46,La Paz,El Alto,U.E. ARMADA BOLIVIANA,1,0,1,1,0,0,,19,Más de un año,6,Cosmos y Pensamiento,1,SEMINARIO AGETIC,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,34,Santa Cruz,Santa Cruz de la Sierra,NACIONAL AYACUCHO,1,0,1,1,0,0,,6,Más de un año,4,"Vida, Tierra y Territorio",1,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,56,La Paz,La Paz,CRISTIANO VIDA NUEVA,0,0,0,0,1,0,,25,Más de un año,21,Comunidad y Sociedad,1,Diseño gráfico computarizado,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,42,La Paz,La Paz,PEDRO POVEDA A,1,0,1,0,0,0,,15,Más de un año,7,"Vida, Tierra y Territorio",1,Las tic's,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,49,La Paz,El Alto,ADELA ZAMUDIO,0,0,1,0,0,0,,16,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,0,0,1,0,,8,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,51,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,1,0,0,,26,Más de un año,10,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,Beni,Trinidad,MARIO SAELLY Mañana,1,0,1,1,0,0,,22,Más de un año,20,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,Santa Cruz,Santa Cruz de la Sierra,EVANGELICO BUENAS NUEVAS,1,1,0,0,0,0,,12,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,32,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,0,0,0,0,,7,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,58,La Paz,La Paz,PEDRO POVEDA A,1,0,0,0,0,0,Dirección  técnico en Fútbol ,38,Más de un año,29,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,42,Cochabamba,Sacaba,RAMON GERMAN PRADA,1,0,1,0,0,0,,20,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Cochabamba,Sacaba,RAMON GERMAN PRADA,1,0,1,0,0,0,,21,Más de un año,8,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,CRISTIANO VIDA NUEVA,1,0,1,0,1,0,,25,Más de un año,14,Comunidad y Sociedad,1,,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,8,Más de un año,2,"Vida, Tierra y Territorio",1,manejo de videos y audios,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,43,La Paz,El Alto,JOSE ANTONIO PAREDES CANDIA,1,0,0,0,0,0,,20,Más de un año,6,Comunidad y Sociedad,1,Inkscape,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,37,Cochabamba,Sacaba,RAMON GERMAN PRADA,1,0,0,1,0,0,,13,Más de un año,2,Comunidad y Sociedad,1,inclusion digital agetic,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Masculino,41,Cochabamba,Sacaba,RAMON GERMAN PRADA,1,0,0,0,1,0,,19,Más de un año,12,Comunidad y Sociedad,1,Inclusion digital,1,Computadora portátil,3,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,52,Cochabamba,Sacaba,RAMON GERMAN PRADA,0,0,1,0,0,0,,28,Más de un año,16,"Ciencia, Tecnología y Producción",1,Tics-Unesco,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+No,Masculino,56,La Paz,La Paz,ISAAC MALDONADO REQUE,0,0,0,0,0,0,Titular por antigüedad ,30,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,No,No,No,No
+Sí,Femenino,39,La Paz,La Paz,ISAAC MALDONADO REQUE,0,0,1,0,0,0,,6,Menos de un año,NA,Comunidad y Sociedad,1,Programa de inclución digital,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,50,La Paz,El Alto,27 DE MAYO B,1,0,1,0,0,0,,21,Más de un año,10,Cosmos y Pensamiento,1,boliviamar,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,27,Santa Cruz,Santa Cruz de la Sierra,HERMANOS ANTONIO Y MARCOS CAVANIS,1,0,1,0,0,0,,5,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,47,Santa Cruz,Montero,San José Obrero Mañana,0,0,1,0,0,0,Diplomados en gestion y tecnica tecnologica general,20,Más de un año,2,Comunidad y Sociedad,1,Las tic,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,31,Beni,Trinidad,LA SALLE FISCAL Tarde,0,0,1,0,1,0,,3,Más de un año,2,"Ciencia, Tecnología y Producción",1,Inclusión Digital,1,Computadora portátil,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,61,Oruro,Oruro,BOLIVIA DE VINTO SECUNDARIA,0,0,1,0,0,0,,30,Más de un año,15,"Ciencia, Tecnología y Producción",1,uso de las tics,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Masculino,34,La Paz,El Alto,AYACUCHO TARDE,1,0,1,1,0,0,,10,Más de un año,3,Comunidad y Sociedad,1,Tic ciencias sociales,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,34,La Paz,El Alto,JOSE ANTONIO PAREDES CANDIA,1,0,1,1,0,0,,12,Más de un año,8,"Vida, Tierra y Territorio",1,Inskape,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,Oruro,Oruro,PANTALEON DALENCE 1,0,0,1,0,0,0,,12,Más de un año,8,"Vida, Tierra y Territorio",1,El de AGETIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,20,Tarija,Tarija,BOLIVIA 2 Mañana,0,0,0,1,0,0,,6,Más de un año,2,"Vida, Tierra y Territorio",1,computacion,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,57,La Paz,La Paz,PEDRO POVEDA A,1,0,1,1,0,0,,35,Más de un año,18,Comunidad y Sociedad,1,Manejo de Kipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,Oruro,Oruro,JESUS DE NAZARETH,1,0,1,0,0,0,,23,Más de un año,19,"Vida, Tierra y Territorio",1,Manejo de tics en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,65,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,Diplomado diseño curricular,40,Más de un año,11,"Ciencia, Tecnología y Producción",1,Resolución gráfica ecuaciones 1er grado,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,0,0,1,0,0,0,,8,Más de un año,5,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,78,Cochabamba,Quillacollo,CALAMA,0,0,1,0,0,0,,11,Más de un año,5,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,45,La Paz,La Paz,NATALIA PALACIOS,1,0,1,0,0,0,,20,Más de un año,13,Comunidad y Sociedad,1,Manejo de kuas y elaboración de planes ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,Santa Cruz,Montero,San José Obrero Mañana,1,0,1,1,0,0,,8,Más de un año,8,Cosmos y Pensamiento,1,,1,Computadora de escritorio,1,0,NA,Por algún familiar,No,Sí,No,Sí
+No,Masculino,39,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,,12,Más de un año,5,Cosmos y Pensamiento,1,TIC en aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,29,Santa Cruz,Montero,San José Obrero Mañana,0,0,1,0,0,0,,8,Más de un año,7,Comunidad y Sociedad,1,Tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,38,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,14,Más de un año,2,"Vida, Tierra y Territorio",1,TICs e Inclusión digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,56,Beni,Trinidad,MARIO SAELLY Mañana,1,0,1,1,0,0,,32,Más de un año,26,"Ciencia, Tecnología y Producción",1,Inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,56,Beni,Trinidad,OTTO AGUILERA OJEDA Tarde,1,0,0,0,0,0,,33,Más de un año,30,"Ciencia, Tecnología y Producción",1,Geogebra,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,35,La Paz,La Paz,HUGO DAVILA A,1,0,0,0,0,0,,7,Más de un año,2,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,53,La Paz,La Paz,NATALIA PALACIOS,0,0,1,0,0,0,,21,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,55,La Paz,El Alto,SIMON BOLIVAR TARDE,0,0,1,0,0,0,,30,Más de un año,23,Comunidad y Sociedad,1,classroom y agetic,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,34,Beni,Trinidad,OTTO AGUILERA OJEDA Tarde,0,1,0,0,0,0,,9,Más de un año,9,"Ciencia, Tecnología y Producción",0,,0,,NA,0,NA,Por algún familiar,No,Sí,No,Sí
+Sí,Femenino,52,La Paz,La Paz,MAX VALDIVIA,0,0,1,0,0,0,,25,Más de un año,10,"Vida, Tierra y Territorio",1,Tic en biología ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,La Paz,La Paz,ALFREDO VARGAS B,1,0,1,0,0,0,,27,Menos de un año,NA,Comunidad y Sociedad,1,Tics,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,47,La Paz,La Paz,25 DE MAYO,1,0,1,1,0,0,,21,Más de un año,7,"Vida, Tierra y Territorio",1,Intrumentas y erramientas virtuales ,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,47,La Paz,El Alto,12 DE OCTUBRE TARDE,0,0,1,0,0,0,,23,Más de un año,1,Comunidad y Sociedad,1,Tics en el aula,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,La Paz,La Paz,MAX VALDIVIA,0,0,1,1,0,0,,7,Más de un año,4,Comunidad y Sociedad,1,Software libre ,1,Computadora portátil,2,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,46,La Paz,La Paz,ELISA DE BALLIVIAN,1,0,1,0,0,0,,20,Menos de un año,NA,Cosmos y Pensamiento,1,Tics en secundaria ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,50,Oruro,Oruro,LA SALLE TARDE,1,0,1,0,0,0,,25,Más de un año,22,Comunidad y Sociedad,1,Audacy,1,Computadora de escritorio,3,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,61,La Paz,El Alto,BAUTISTA SAAVEDRA,1,0,1,1,0,0,,33,Más de un año,9,"Ciencia, Tecnología y Producción",1,"RECURSOS TIC EN ÁREAS DE SABERES Y CONOCIMIENTOS MATEMÁTICA (NIVEL: 1, 2, 3)",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,51,La Paz,La Paz,MAX VALDIVIA,0,1,0,0,0,0,,26,Más de un año,3,"Ciencia, Tecnología y Producción",1,Tics,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,40,La Paz,El Alto,SIMON BOLIVAR TARDE,0,0,0,0,1,0,,14,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Uso de recursos educativos,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Masculino,45,Oruro,Oruro,BOLIVIA DE VINTO SECUNDARIA,0,0,1,0,0,0,,10,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,50,Oruro,Oruro,LA SALLE TARDE,1,0,0,1,0,0,,33,Más de un año,20,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,COSMOS 79 MAÑANA,1,0,1,0,0,0,,12,Más de un año,10,"Vida, Tierra y Territorio",1,Unefco en el área de química ,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,SIMON BOLIVAR TARDE,0,0,1,1,0,0,,19,Más de un año,4,Comunidad y Sociedad,1,Uso de TICs ,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,48,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,0,0,1,0,0,0,,16,Más de un año,14,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,1,0,0,0,,27,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,Oruro,Oruro,PANTALEON DALENCE 1,1,0,1,0,0,0,,28,Más de un año,8,"Ciencia, Tecnología y Producción",1,Manejo de las TICs,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,35,Oruro,Oruro,JUANA AZURDUY DE PADILLA SECUNDARIA,1,0,1,1,0,0,,5,Más de un año,2,Comunidad y Sociedad,1,Uso de las TICS,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,1,0,0,0,Diplomante,8,Más de un año,4,Comunidad y Sociedad,1,Diplomado en Nuevas tecnologías en Educación UNIFRANZ,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,Diplomados,14,Más de un año,11,Comunidad y Sociedad,1,N Tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,61,La Paz,La Paz,HERNANDO SILES REYES,1,0,1,1,0,0,,34,Más de un año,11,Comunidad y Sociedad,1,Capacitación en elaboración de programas educativos,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,0,1,0,0,0,,30,Más de un año,2,Comunidad y Sociedad,1,uso de Kuaas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,31,La Paz,La Paz,FUERZAS ARMADAS DE LA NACION B,0,0,0,1,0,0,,6,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,39,Beni,Trinidad,NICOLAS SUAREZ Mañana,1,0,1,0,0,0,,20,Más de un año,20,Cosmos y Pensamiento,1,Inclusión Digital ,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,35,Beni,Trinidad,NICOLAS SUAREZ Mañana,1,0,1,1,0,0,,8,Más de un año,3,"Vida, Tierra y Territorio",1,Uso y manejo de las tics,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,65,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,1,0,0,,34,Más de un año,30,Comunidad y Sociedad,1,Cómo manejar los KUAAs,1,Computadora portátil,3,1,1,Otro,Sí,Sí,No,Sí
+Sí,Masculino,60,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,0,0,1,0,0,0,,33,Más de un año,5,Comunidad y Sociedad,1,manejo en equipos kuua,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,53,La Paz,La Paz,CRISTIANO VIDA NUEVA,1,0,1,0,0,0,,20,Más de un año,3,"Vida, Tierra y Territorio",1,Uso de paquetes,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,67,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,35,Más de un año,20,Comunidad y Sociedad,1,Talleres del ministerio,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,No
+Sí,Femenino,47,Oruro,Oruro,JESUS DE NAZARETH,1,0,0,0,0,0,,22,Más de un año,20,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,40,Cochabamba,Sacaba,JOSE LEONCIO CAPRILES,1,0,0,0,0,0,,20,Menos de un año,NA,"Vida, Tierra y Territorio",1,inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,35,La Paz,La Paz,ABRAHAM REYES FE Y ALEGRIA,0,0,1,0,0,0,,8,Más de un año,5,Comunidad y Sociedad,1,uso de pisos tecnologicos,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Masculino,29,Beni,Trinidad,MARIO SAELLY Mañana,1,0,1,0,0,0,,5,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,59,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,0,0,1,0,0,0,,30,Más de un año,18,Comunidad y Sociedad,1,Unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,51,La Paz,El Alto,SIMON BOLIVAR TARDE,0,0,1,0,0,0,,20,Más de un año,14,Cosmos y Pensamiento,1,Uso y manejo de las Tics.,1,Computadora portátil,1,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,3,Más de un año,1,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,40,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,6,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,58,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,26,Más de un año,20,Comunidad y Sociedad,1,Class rum de la alcaldia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,57,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,22,Más de un año,4,"Ciencia, Tecnología y Producción",1,inclusion digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Masculino,40,La Paz,La Paz,25 DE MAYO,0,1,0,0,0,0,,17,Menos de un año,NA,"Vida, Tierra y Territorio",1,Tecnologías de la información y comunicación para la creación de cursos didacticos,1,Computadora portátil,1,1,3,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,58,La Paz,La Paz,BOLIVIA IV,1,0,1,1,0,0,,30,Más de un año,3,Comunidad y Sociedad,1,Socialización uso de computadoras,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Masculino,57,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,1,0,0,0,0,0,,25,Más de un año,12,Cosmos y Pensamiento,1,Unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,45,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,1,0,0,,15,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,40,Más de un año,39,Comunidad y Sociedad,1,Virtual,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,49,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,27,Más de un año,13,Cosmos y Pensamiento,1,Programa digital de inclusión,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,46,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,7,Más de un año,3,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,35,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,7,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Masculino,59,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,1,0,0,0,0,0,,32,Más de un año,20,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,38,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,6,Más de un año,3,Comunidad y Sociedad,1,Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,0,0,0,,12,Menos de un año,NA,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Masculino,39,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,1,0,1,0,,15,Más de un año,12,Comunidad y Sociedad,1,Tics en educación ,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,57,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,1,0,0,,15,Más de un año,5,Comunidad y Sociedad,1,inclusion digital,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,No,No,Sí
+No,Femenino,60,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,0,0,0,0,,27,Más de un año,24,Comunidad y Sociedad,1,Quinto,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Masculino,39,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,0,0,0,,5,Más de un año,1,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,38,La Paz,La Paz,25 DE MAYO,0,0,0,1,0,0,,17,Más de un año,2,Comunidad y Sociedad,1,Gestión de aula a través de TICS,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,51,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,0,0,1,0,,23,Más de un año,9,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,6,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Femenino,41,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,9,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Masculino,51,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,1,0,0,,14,Más de un año,3,"Vida, Tierra y Territorio",1,PROFOCOM,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Masculino,49,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,0,0,0,,10,Más de un año,2,Comunidad y Sociedad,1,universidad salesiana de bolivia,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,56,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,0,0,1,0,0,0,,16,Más de un año,9,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,0,1,0,0,0,,20,Más de un año,10,"Vida, Tierra y Territorio",1,Manejo de TIC,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,58,Beni,Trinidad,SAN ANTONIO Mañana,1,0,0,0,0,0,,23,Más de un año,15,Comunidad y Sociedad,1,Inclusión digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,41,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,17,Más de un año,8,"Vida, Tierra y Territorio",1,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,12,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,49,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,0,0,0,,8,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,45,La Paz,El Alto,HUAYNA POTOSI MAÑANA,1,1,1,0,0,0,,11,Más de un año,9,"Ciencia, Tecnología y Producción",1,QUIPUS,1,Computadora de escritorio,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,62,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,0,0,0,0,,37,Más de un año,23,Comunidad y Sociedad,0,,0,,NA,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,40,Tarija,Tarija,SAN JERONIMO 2 Tarde,1,0,0,0,0,0,,15,Menos de un año,NA,Cosmos y Pensamiento,1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,1,1,0,0,,12,Más de un año,3,Comunidad y Sociedad,1,actualizacion a nuevas tecnologias de aprendizaje y pedagogia - minedu,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,No,No,No
+Sí,Masculino,42,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,15,Más de un año,5,Comunidad y Sociedad,1,cass rum,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,55,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,34,Más de un año,1,"Ciencia, Tecnología y Producción",1,de la alcaldia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,25,Más de un año,9,Comunidad y Sociedad,1,De la Alcaldía,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,9,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,43,La Paz,La Paz,ANTONIO DIAZ VILLAMIL A,1,0,0,0,0,0,,8,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,45,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,19,Más de un año,9,Comunidad y Sociedad,1,Agetic,1,Computadora de escritorio,2,0,NA,Otro,No,Sí,Sí,Sí
+Sí,Masculino,62,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,0,0,1,0,0,0,,23,Más de un año,20,Comunidad y Sociedad,1,Unefco,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,48,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,0,0,0,,20,Más de un año,18,Comunidad y Sociedad,1,Capacitación en el USO de software libre ,1,Computadora de escritorio,3,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,57,Oruro,Machacamarca,PEDRO DOMINGO MURILLO 2,0,0,1,0,0,0,,32,Más de un año,26,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,70,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,35,Más de un año,20,"Ciencia, Tecnología y Producción",1,Proyecto Jala,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,29,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,0,0,0,,7,Más de un año,2,Comunidad y Sociedad,1,Computacion,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,La Paz,ENRIQUE LINDEMANN B,0,0,1,0,0,0,,19,Más de un año,12,"Vida, Tierra y Territorio",1,Diplomado virtual de física ,1,Computadora portátil,6,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,37,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,8,Más de un año,4,"Vida, Tierra y Territorio",1,uso de programas de química,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,JESUS MARIA FE Y ALEGRIA,0,0,1,0,0,0,,11,Más de un año,8,"Vida, Tierra y Territorio",1,Herramientas de autor ,1,Computadora de escritorio,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,64,La Paz,La Paz,FUERZAS ARMADAS DE LA NACION B,1,0,1,0,0,0,,29,Más de un año,22,Comunidad y Sociedad,1,inclusión digital : inskcape .... Gymp...,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,67,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,35,Más de un año,16,Comunidad y Sociedad,1,Programa de inclusión digital,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,12,Más de un año,5,Comunidad y Sociedad,1,Programa de inclusión digital ,1,Computadora de escritorio,3,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,31,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,0,0,1,0,0,0,,8,Más de un año,3,Comunidad y Sociedad,1,Herramientas tecnologicas,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,25,La Paz,El Alto,LOS ANDES MAÑANA,0,0,1,0,0,0,,1,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,No
+Sí,Femenino,41,La Paz,La Paz,ENRIQUE LINDEMANN B,1,0,0,0,0,0,,10,Más de un año,4,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,La Paz,ENRIQUE LINDEMANN B,1,0,0,0,0,0,,8,Más de un año,3,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+No,Masculino,29,La Paz,El Alto,VILLA ALEMANIA,0,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,37,La Paz,La Paz,25 DE MAYO,1,0,1,1,0,0,,13,Más de un año,2,Comunidad y Sociedad,1,Interactuando en el aula a traves de las TIC,1,Computadora portátil,3,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,52,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,1,1,0,0,,20,Más de un año,4,Comunidad y Sociedad,1,Tic,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,49,La Paz,La Paz,ENRIQUE LINDEMANN B,0,0,1,0,0,0,,20,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,21,Más de un año,2,Comunidad y Sociedad,1,Inclusión Digital,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+No,Femenino,34,La Paz,El Alto,ATIPIRIS MAÑANA,1,0,0,0,0,0,,3,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,2,1,1,Por cuenta propia,No,No,No,No
+Sí,Masculino,49,La Paz,La Paz,SIMON RODRIGUEZ CARREÑO,1,0,0,0,0,0,,15,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,40,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,1,0,1,1,0,0,,12,Más de un año,5,Comunidad y Sociedad,1,Uso de las tics en el aula,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,40,La Paz,La Paz,25 DE MAYO,1,0,1,0,0,0,,15,Más de un año,3,"Ciencia, Tecnología y Producción",1,Interactuando en las aulas a través de las TIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,31,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,0,1,0,0,0,,10,Más de un año,6,Comunidad y Sociedad,1,uso de TIC's mapas mentales,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,40,La Paz,El Alto,DR. CARLOS MONTENEGRO,0,0,1,0,0,0,,17,Más de un año,3,Cosmos y Pensamiento,1,Inclusión digital,1,Computadora portátil,4,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,43,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,2 diplomados,19,Más de un año,2,"Vida, Tierra y Territorio",1,Uso de software libre,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,33,La Paz,El Alto,DR. CARLOS MONTENEGRO,0,0,1,0,0,0,,8,Más de un año,3,Comunidad y Sociedad,1,Inclusion Digital,1,Computadora portátil,2,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,27,La Paz,El Alto,31 DE OCTUBRE B,0,0,1,0,0,0,,4,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,0,,NA,0,NA,Por cuenta propia,Sí,No,No,No
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,0,0,0,0,0,,14,Más de un año,12,Cosmos y Pensamiento,1,Inclusion Digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,64,Tarija,Tarija,HUMBERTO PORTOCARRERO 2 Tarde,1,0,1,0,0,0,,39,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,introducción de la nuevas tecnologías en el aula ,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,0,0,1,0,,27,Más de un año,12,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Masculino,35,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,1,0,1,0,0,0,,12,Más de un año,6,"Vida, Tierra y Territorio",1,TIC,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,1,1,0,0,0,,20,Más de un año,6,"Vida, Tierra y Territorio",1,En Entrega de qipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,42,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,0,1,0,0,,8,Más de un año,4,Comunidad y Sociedad,1,Inclusión digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,51,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,1,1,0,0,0,0,,20,Más de un año,10,"Ciencia, Tecnología y Producción",1,soy tenico en sistemas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,NACIONAL AYACUCHO,0,0,1,0,0,0,,10,Más de un año,5,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Masculino,52,Cochabamba,Sacaba,SACABA DIURNO,0,0,0,0,0,0,Titular por antigüedad ,25,Más de un año,21,Cosmos y Pensamiento,1,Aula virtual ,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,33,Santa Cruz,Santa Cruz de la Sierra,NACIONAL AYACUCHO,1,0,1,1,0,0,,11,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,27,Tarija,Tarija,TARIJA 3 Tarde,1,0,1,1,0,0,,3,Más de un año,3,Comunidad y Sociedad,1,Herramientas básicas de las Tics en las Artes Plásticas,1,Computadora portátil,1,0,NA,Por algún familiar,Sí,Sí,Sí,Sí
+Sí,Masculino,36,La Paz,El Alto,JOSE ANTONIO PAREDES CANDIA,1,0,0,0,0,0,,6,Más de un año,3,Comunidad y Sociedad,1,Capacitacion en tics,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,57,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,0,0,0,0,0,,32,Más de un año,3,Comunidad y Sociedad,1,uso de las TIC en santillana,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,32,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,1,0,0,0,,11,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Interactuando en el aula a través de  laas TIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,35,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,1,0,0,,12,Más de un año,8,"Ciencia, Tecnología y Producción",1,Entornos interactivos,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+No,Masculino,56,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,1,0,0,,34,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,0,0,1,0,0,0,,10,Más de un año,5,"Ciencia, Tecnología y Producción",1,Bth,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,34,Chuquisaca,Sucre,VICTORIA DIEZ (MAÑANA),1,1,1,0,0,0,,6,Más de un año,6,"Ciencia, Tecnología y Producción",1,geogebra,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,37,La Paz,El Alto,SAN VICENTE DE PAUL,1,1,1,0,0,0,,6,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Otro,Sí,Sí,Sí,Sí
+Sí,Femenino,34,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,1,0,0,0,,12,Más de un año,8,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,65,La Paz,El Alto,27 DE MAYO B,0,0,0,0,1,0,,34,Más de un año,13,"Vida, Tierra y Territorio",1,El uso de los materiales de laboratorio en la UNEFCO,1,Computadora de escritorio,5,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,63,La Paz,El Alto,AYACUCHO TARDE,1,0,0,0,0,0,,22,Más de un año,6,Comunidad y Sociedad,1,Diseño Gráfico,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,44,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,1,1,0,0,0,,17,Más de un año,14,"Vida, Tierra y Territorio",1,PROGRAMA DE INCLUSION DIGITAL,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,Santa Cruz,Santa Cruz de la Sierra,NACIONAL AYACUCHO,1,0,1,0,1,0,,8,Más de un año,8,Comunidad y Sociedad,1,Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,42,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,0,0,1,1,0,0,Diplomado en P.A.,27,Más de un año,25,Comunidad y Sociedad,1,capacitacion de inclusion digital,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,No,Sí,Sí
+Sí,Femenino,39,La Paz,El Alto,AYACUCHO TARDE,0,1,1,0,0,0,,3,Más de un año,3,Comunidad y Sociedad,1,Agetic,1,Computadora de escritorio,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,38,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,0,0,0,,19,Más de un año,10,"Vida, Tierra y Territorio",1,inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,60,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,0,0,0,,33,Más de un año,25,Cosmos y Pensamiento,1,capa citacion de inclusión digital,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,63,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,0,0,0,,35,Más de un año,22,Comunidad y Sociedad,1,clases en kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,35,La Paz,La Paz,NATALIA PALACIOS,1,0,1,0,0,0,,12,Más de un año,9,"Ciencia, Tecnología y Producción",1,Diplomado bachillerato tecnico humanistico,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,42,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,0,1,0,,14,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,39,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,0,0,0,,8,Más de un año,8,Comunidad y Sociedad,1,capacitacion con kuaas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,37,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,1,0,0,,17,Más de un año,4,Cosmos y Pensamiento,1,inclusion digital capacitacion en kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,33,La Paz,El Alto,27 DE MAYO B,0,0,1,0,0,0,,11,Menos de un año,NA,Comunidad y Sociedad,1,Independiente centro lumiere,1,Computadora de escritorio,2,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,48,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,1,0,0,,22,Más de un año,3,Comunidad y Sociedad,1,curso de capacitacion de inclucion Digital,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,63,La Paz,La Paz,PEDRO POVEDA A,1,0,0,0,0,0,,39,Más de un año,21,Comunidad y Sociedad,1,Las tics aplicadas en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,59,Tarija,Tarija,JOSE MANUEL AVILA 2 Tarde,1,0,0,1,0,0,,30,Más de un año,4,"Ciencia, Tecnología y Producción",1,Manejo de las kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,33,Cochabamba,Sacaba,SACABA DIURNO,0,0,1,0,0,0,,4,Más de un año,2,Comunidad y Sociedad,1,diplomado en tecnologia educativa,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,33,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,0,0,1,0,0,0,,8,Menos de un año,NA,"Vida, Tierra y Territorio",1,TICs,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,47,La Paz,El Alto,SAN VICENTE DE PAUL,1,0,1,0,0,0,,25,Más de un año,16,"Ciencia, Tecnología y Producción",1,Kiss por el ministerio de educacion,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,63,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,1,1,0,0,0,,33,Más de un año,23,"Vida, Tierra y Territorio",1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,El Alto,1RO. DE MAYO TARDE,1,0,0,0,0,0,,20,Más de un año,6,Comunidad y Sociedad,1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,34,La Paz,La Paz,25 DE MAYO,1,0,1,0,1,0,,13,Más de un año,13,"Ciencia, Tecnología y Producción",1,Tecnología de la información y comunicación-Proyectos Educativos en Tecnología ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,18 DE MARZO B,1,0,1,0,0,0,,8,Menos de un año,NA,Comunidad y Sociedad,1,Capacotación en el uso de las Quas,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,1,0,0,0,,11,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Tecnica tecnologia general,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,0,1,0,0,0,,16,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,36,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,0,0,1,1,0,0,,9,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,informatica y robotica en el aula ,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,33,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,1,1,0,0,0,,10,Más de un año,3,"Ciencia, Tecnología y Producción",1,Técnico en hardware,1,Computadora portátil,4,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,30,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,1,0,0,0,,7,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,44,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,23,Más de un año,21,Comunidad y Sociedad,1,Inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,El Alto,SAN LUIS TARDE,1,0,1,0,0,0,,23,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,35,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,8,Más de un año,2,"Vida, Tierra y Territorio",1,Elaboración de videos y manejo de programas para elaborar mapas mentales,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,47,La Paz,La Paz,MAX VALDIVIA,0,0,1,0,0,0,,18,Más de un año,7,Cosmos y Pensamiento,1,"Las TICs en la educación,  Inclusión digital ",1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,0,0,0,1,0,0,,19,Más de un año,15,Comunidad y Sociedad,1,Unefco,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,39,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,14,Más de un año,4,Comunidad y Sociedad,1,"Inkscape,sozi",1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,38,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,1,0,0,0,,11,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Lad tic aplicadas en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,33,La Paz,La Paz,GUALBERTO VILLARROEL NRO. 2,1,0,0,0,0,0,,3,Más de un año,2,"Ciencia, Tecnología y Producción",1,presentaciones con incscape y sosi,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,La Paz,El Alto,SAN LUIS TARDE,1,0,1,0,0,0,,25,Más de un año,20,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,60,La Paz,La Paz,25 DE MAYO,1,0,1,1,0,0,,38,Más de un año,33,"Ciencia, Tecnología y Producción",1,Interactuando en el aula a trvés de las TIC,1,Computadora portátil,5,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,31,La Paz,El Alto,SAN LUIS TARDE,1,0,1,0,0,0,,8,Más de un año,4,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,41,Tarija,Tarija,JOSE MANUEL AVILA 1 Mañana,1,0,1,1,0,0,,19,Más de un año,3,Comunidad y Sociedad,1,uso del programa Classroom..,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,La Paz,El Alto,MERCEDES BELZU DE DORADO B,0,0,1,0,0,0,,13,Más de un año,11,"Vida, Tierra y Territorio",1,tics,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,56,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,,30,Más de un año,25,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,YUNGUYO FE Y ALEGRIA TARDE,1,0,1,0,0,0,,19,Más de un año,9,Comunidad y Sociedad,1,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,59,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,0,0,0,0,,31,Más de un año,22,"Ciencia, Tecnología y Producción",1,Informacion educativa ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Masculino,49,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,0,0,1,0,0,0,,25,Más de un año,21,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,42,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,0,0,1,0,0,0,,17,Más de un año,5,Comunidad y Sociedad,1,Unesco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,31,Beni,Trinidad,NACIONAL 6 DE AGOSTO Mañana,1,0,1,1,0,0,,9,Más de un año,1,Cosmos y Pensamiento,1,,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,30,La Paz,El Alto,REPUBLICA DE BOLIVIA,1,0,1,0,0,0,,4,Más de un año,1,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,34,La Paz,El Alto,REPUBLICA DE BOLIVIA,1,0,1,0,0,0,,8,Más de un año,6,Comunidad y Sociedad,1,Manejo de PowerPoint ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,38,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,0,0,1,0,0,0,,13,Más de un año,10,Cosmos y Pensamiento,1,TIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,Sí,Sí
+Sí,Masculino,42,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,1,0,0,0,0,0,,17,Más de un año,14,Comunidad y Sociedad,1,TIC ,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Tarija,San Lorenzo,JULIO SUCRE Mañana,1,0,0,0,0,0,,5,Más de un año,3,"Ciencia, Tecnología y Producción",1, googleform,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Tarija,Tarija,LA PAZ Mañana,1,0,1,0,0,0,,21,Más de un año,17,"Ciencia, Tecnología y Producción",1,Herramientas TIC ,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,51,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,26,Más de un año,6,Cosmos y Pensamiento,1,,0,,NA,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Masculino,38,Cochabamba,Quillacollo,SAN MARTÍN DE PORRES (TARDE),1,0,0,0,0,0,,7,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora de escritorio,3,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,35,La Paz,El Alto,PARAISO B,0,0,1,0,0,0,,11,Más de un año,3,"Vida, Tierra y Territorio",1,Laboratorio virtual de física diseño de estructuras químicas 2D - 3D,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,42,Beni,Trinidad,NICOLAS SUAREZ Mañana,1,0,1,1,0,0,,18,Menos de un año,NA,Comunidad y Sociedad,1,Capasitacionde las quipus ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,44,Beni,Trinidad,NICOLAS SUAREZ Mañana,1,0,1,1,0,0,,13,Más de un año,11,Cosmos y Pensamiento,1,Capacitacion  de las quipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,41,Beni,Trinidad,NICOLAS SUAREZ Mañana,1,1,0,0,0,0,,10,Más de un año,10,"Ciencia, Tecnología y Producción",1,Inclusion digital,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,Chuquisaca,Sucre,LICEO MILITAR TTE. EDMUNDO ANDRADE,0,0,1,0,0,0,,21,Más de un año,17,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,41,Beni,Trinidad,SAN ANTONIO Mañana,0,0,1,0,0,0,,8,Más de un año,4,Comunidad y Sociedad,1,Inclusión digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,47,Santa Cruz,Santa Cruz de la Sierra,NACIONAL FLORIDA I,1,0,0,1,0,0,Maestro  de ciencias sociales ,15,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,37,Pando,Cobija,MCAL. SUCRE MAÑANA,1,0,0,0,0,0,,7,Más de un año,2,Comunidad y Sociedad,1,Tics,1,Computadora portátil,2,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,45,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,19,Más de un año,19,Comunidad y Sociedad,1,Programas de software libre,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,50,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,1,0,1,0,0,0,,26,Más de un año,22,"Ciencia, Tecnología y Producción",1,Class rom pizarra virtual,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,65,Cochabamba,Cochabamba,ABAROA A,1,0,0,0,0,0,,22,Más de un año,10,Cosmos y Pensamiento,1,Cursos de seduca,1,Computadora portátil,2,0,NA,Otro,Sí,No,No,Sí
+No,Femenino,39,Beni,Trinidad,SAN ANTONIO Mañana,1,0,0,0,0,0,,15,Más de un año,8,Comunidad y Sociedad,1,Inclusion digital,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,La Paz,La Paz,CHASQUIPAMPA A,1,0,1,1,0,0,,25,Más de un año,19,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,47,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,22,Más de un año,22,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,61,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,1,0,0,0,,31,Más de un año,19,Cosmos y Pensamiento,1,Inclusion digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,La Paz,CHASQUIPAMPA A,1,0,0,0,0,0,,25,Más de un año,12,"Ciencia, Tecnología y Producción",1,Manejo de KUAAS ,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,25,Más de un año,25,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,Sí,Sí
+Sí,Masculino,42,La Paz,La Paz,URUGUAY,0,1,0,0,0,0,,18,Más de un año,10,"Ciencia, Tecnología y Producción",1,Programas de software libre,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,30,La Paz,El Alto,SAN VICENTE DE PAUL,1,0,0,0,0,0,,8,Más de un año,8,Cosmos y Pensamiento,1,mapas mentales,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,46,La Paz,El Alto,BOLIVIA MAÑANA,1,0,1,1,0,0,,20,Más de un año,3,"Ciencia, Tecnología y Producción",0,,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,20,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Femenino,45,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,20,Más de un año,20,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Femenino,45,Santa Cruz,Montero,Nacional Montero,1,0,1,0,0,0,,25,Más de un año,14,"Vida, Tierra y Territorio",1,Ofimatica  tic,1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,49,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,25,Más de un año,15,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,No
+Sí,Femenino,42,La Paz,La Paz,URUGUAY,1,0,0,0,0,0,,21,Más de un año,21,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,No
+No,Masculino,33,La Paz,La Paz,BOLIVIA IV,1,0,1,1,0,0,,4,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora de escritorio,4,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,31,Tarija,Tarija,CASTELFORT CASTELLANOS Tarde,0,1,1,0,0,0,,3,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,4,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,38,Cochabamba,Quillacollo,CALAMA,0,0,1,0,0,0,,19,Más de un año,10,"Ciencia, Tecnología y Producción",1,Manejo de las TICs ,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,32,La Paz,El Alto,PARAISO B,1,0,1,0,0,0,,5,Más de un año,5,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,31,La Paz,El Alto,BOLIVIA MAÑANA,1,0,1,0,0,0,,5,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,44,Cochabamba,Quillacollo,CALAMA,1,0,1,1,0,0,,19,Más de un año,6,"Ciencia, Tecnología y Producción",1,Tecnologías educativas en el aula TICs,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,43,Cochabamba,Quillacollo,CALAMA,1,0,1,0,0,0,,13,Más de un año,4,Comunidad y Sociedad,1,Ciatec,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,39,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,,17,Más de un año,2,Comunidad y Sociedad,1,Manejo de Tics Don Bosco,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,REPUBLICA DEL JAPON MAÑANA,0,0,1,0,0,0,,5,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,41,La Paz,El Alto,PARAISO B,1,0,1,0,1,0,,18,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,3,0,NA,Otro,Sí,Sí,Sí,Sí
+Sí,Masculino,45,Oruro,Oruro,SIMON BOLIVAR SECUNDARIA,1,1,1,0,0,0,,19,Más de un año,4,"Ciencia, Tecnología y Producción",1,Kuaa,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,42,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,1,1,0,0,,17,Más de un año,8,"Ciencia, Tecnología y Producción",1,Uso de kuas,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,52,La Paz,La Paz,ALFREDO VARGAS B,1,0,1,0,0,0,,30,Más de un año,22,"Ciencia, Tecnología y Producción",1,Talleres con Educainnova,1,Computadora de escritorio,1,1,1,Otro,Sí,Sí,No,Sí
+Sí,Femenino,44,Tarija,Tarija,LA PAZ Mañana,1,0,1,0,0,0,,6,Más de un año,6,Comunidad y Sociedad,1,Uso de las Kuuas y el Linux,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,Tarija,Tarija,LA SALLE CONVENIO Tarde,0,0,1,0,0,0,,29,Más de un año,18,Comunidad y Sociedad,1,El que se impartió en el colegio con el grupo de inclusión digital ,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,61,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,,37,Más de un año,4,"Ciencia, Tecnología y Producción",1,"Educación activa en matemáticas, procedimientos y estrategias en matemáticas",0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,40,Oruro,Oruro,NACIONAL SAN JOSE,0,0,1,0,0,0,,10,Más de un año,3,"Vida, Tierra y Territorio",1,agetic,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Masculino,58,Oruro,Oruro,BOLIVIA DE VINTO SECUNDARIA,1,0,0,0,0,0,,26,Más de un año,8,"Ciencia, Tecnología y Producción",1,Inclusión Digital AGETIC,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,AYACUCHO TARDE,0,1,0,0,0,0,,21,Más de un año,10,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,1,0,0,0,,8,Más de un año,3,Comunidad y Sociedad,1,uso de las TIC en el aula,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,31,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,8,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,29,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,5,Más de un año,5,Cosmos y Pensamiento,1,5,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,60,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,34,Más de un año,30,"Ciencia, Tecnología y Producción",1,Uso de herramientas de software libre,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,34,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,0,1,0,0,,6,Más de un año,1,"Ciencia, Tecnología y Producción",1,Manejo de cuas,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,55,Oruro,Oruro,NACIONAL SAN JOSE,0,0,1,0,0,0,,17,Menos de un año,NA,"Vida, Tierra y Territorio",1,agetic,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,49,Oruro,Oruro,BOLIVIA DE VINTO SECUNDARIA,1,0,1,0,0,0,,20,Más de un año,12,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,56,La Paz,El Alto,SIMON BOLIVAR TARDE,1,0,1,0,1,0,,33,Más de un año,2,"Ciencia, Tecnología y Producción",1,Herramientas de software libre,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,48,La Paz,La Paz,LA MERCED B,1,0,0,0,0,0,,25,Más de un año,8,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,56,Tarija,Tarija,LA SALLE CONVENIO Tarde,1,0,1,0,0,0,,33,Más de un año,17,Comunidad y Sociedad,1,Curso en el colegio de AGETIC ,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,32,Oruro,Oruro,NACIONAL SAN JOSE,0,0,1,0,0,0,,9,Menos de un año,NA,Cosmos y Pensamiento,1,agetic,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,45,La Paz,La Paz,MARIEN GARTEN C,1,0,0,0,0,0,,7,Más de un año,3,"Vida, Tierra y Territorio",1,Capacitación en uso de software libre,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,58,Oruro,Oruro,BOLIVIA DE VINTO SECUNDARIA,1,0,1,0,1,0,,22,Más de un año,18,Comunidad y Sociedad,1,Agetic,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,PRIMAVERA B,1,0,0,0,0,0,,20,Más de un año,12,Cosmos y Pensamiento,1,manejo de las KUAA,1,Computadora de escritorio,1,0,NA,Por algún familiar,Sí,Sí,No,Sí
+Sí,Femenino,57,La Paz,El Alto,PRIMAVERA B,1,0,1,0,0,0,,32,Más de un año,9,"Ciencia, Tecnología y Producción",1,tics ,1,Computadora de escritorio,2,1,4,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,38,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,1,0,0,0,,10,Más de un año,7,Comunidad y Sociedad,1,Kuas,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,29,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,1,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Oruro,Oruro,NACIONAL SAN JOSE,1,0,0,0,0,0,,18,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,46,Pando,Cobija,MCAL. SUCRE MAÑANA,0,0,1,0,0,0,,23,Más de un año,15,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,33,La Paz,El Alto,JESUS MARIA FE Y ALEGRIA,1,0,0,0,0,0,,7,Más de un año,2,Comunidad y Sociedad,1,Uso de las TICS,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,59,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,1,0,0,0,,30,Más de un año,27,"Ciencia, Tecnología y Producción",1,tecnico auxiliar  CEC,1,Computadora de escritorio,4,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,Oruro,Oruro,NACIONAL SAN JOSE,0,0,1,0,1,0,,25,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,No
+Sí,Femenino,56,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,27,Más de un año,12,Comunidad y Sociedad,1,proyecto de inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,58,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,33,Más de un año,6,Comunidad y Sociedad,1,Proyecto de Inclusion Digital y curso de la Alcaldía,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,56,La Paz,El Alto,BOLIVIA MAÑANA,1,0,1,0,0,0,,27,Más de un año,21,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,0,1,1,0,,12,Más de un año,5,"Ciencia, Tecnología y Producción",1,Capacitación de la Alcaldía para el uso de kuaas en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,43,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,17,Más de un año,6,Cosmos y Pensamiento,1,programa de inclusion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,23,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Proyecto de Inclusión Digital,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,44,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,,22,Más de un año,19,"Vida, Tierra y Territorio",1,Quipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,1,0,0,0,,14,Más de un año,4,"Vida, Tierra y Territorio",1,Diplomado en informatica educativa ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,59,La Paz,La Paz,DOMINGO FAUSTINO SARMIENTO,1,0,1,1,0,0,,13,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,48,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,1,0,0,,18,Más de un año,6,Comunidad y Sociedad,1,TIC,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,34,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,1,0,0,0,0,,10,Más de un año,5,Comunidad y Sociedad,0,,0,,NA,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,36,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,1,1,0,0,0,,9,Más de un año,7,"Ciencia, Tecnología y Producción",1,Uso de los pisos tecnológicos de unefco,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,46,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,0,0,1,0,,18,Más de un año,4,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,32,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,1,0,0,,10,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,54,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,0,0,0,,6,Menos de un año,NA,"Vida, Tierra y Territorio",1,Unefco,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,60,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,0,0,1,0,,27,Menos de un año,NA,Comunidad y Sociedad,1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Masculino,32,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,8,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,No,No,No
+Sí,Femenino,46,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,0,0,0,,21,Más de un año,13,Cosmos y Pensamiento,1,Uso de las tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,23,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,2,Más de un año,2,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,0,0,0,0,,16,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,el uso de geogebra,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,31,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,10,Más de un año,7,"Ciencia, Tecnología y Producción",1,Aula virtual,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,16,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,39,La Paz,El Alto,BOLIVIA MAÑANA,1,0,1,1,0,0,,16,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,38,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,1,0,0,,8,Más de un año,8,Comunidad y Sociedad,1,Aula virtual,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,51,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,26,Más de un año,6,Cosmos y Pensamiento,0,,0,,NA,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,0,0,0,,12,Más de un año,7,"Ciencia, Tecnología y Producción",1,Uso d la tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,33,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,0,0,1,0,0,0,,9,Menos de un año,NA,Comunidad y Sociedad,1,Interactuando en el aula a través de las TICs,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,49,Potosí,Potosí,COPACABANA C,1,0,1,1,0,0,,26,Más de un año,25,Comunidad y Sociedad,1,Biogeografia,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,60,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,0,0,1,0,,40,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,1,0,0,,21,Más de un año,3,Comunidad y Sociedad,1,Este curso de la AGETIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,50,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,1,1,0,0,,20,Menos de un año,NA,"Vida, Tierra y Territorio",1,El uso de las Tic's en el área de Química,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,44,La Paz,El Alto,AYACUCHO TARDE,1,0,0,0,0,0,,10,Más de un año,2,Comunidad y Sociedad,1,Cursos virtuales sobre uso de tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,Sí,Sí
+Sí,Femenino,47,Santa Cruz,Santa Cruz de la Sierra,NACIONAL COTOCA,1,0,1,0,0,0,,5,Más de un año,5,"Vida, Tierra y Territorio",1,Ntic de  se la unefco aula vigual,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,61,Beni,Trinidad,NACIONAL 6 DE AGOSTO Mañana,1,0,1,0,0,0,,14,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,51,La Paz,La Paz,CHASQUIPAMPA A,1,0,1,1,0,0,,26,Más de un año,13,"Vida, Tierra y Territorio",1,Cursos de capacitación para maestros y maestras en el uso deTICs,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,38,Tarija,Tarija,JOSE MANUEL AVILA 1 Mañana,1,0,1,0,0,0,,14,Más de un año,11,Comunidad y Sociedad,1,Uso de kuas con el sistema linux,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,Tarija,Tarija,JOSE MANUEL AVILA 2 Tarde,1,0,0,0,0,0,Licenciatura en administración educativa ,16,Más de un año,4,"Vida, Tierra y Territorio",1,Laboratorio virtual ,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,44,Tarija,Tarija,JOSE MANUEL AVILA 1 Mañana,1,0,1,1,0,0,,13,Más de un año,12,"Ciencia, Tecnología y Producción",1,Actualización en el uso de las Tics,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,La Paz,El Alto,REPUBLICA DEL JAPON MAÑANA,0,0,1,0,0,0,,15,Más de un año,10,Cosmos y Pensamiento,1,Acerca de  las nuevas tecnologías,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,50,La Paz,El Alto,REPUBLICA DEL JAPON MAÑANA,1,0,1,1,0,0,,15,Más de un año,8,Comunidad y Sociedad,1,Classroom,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,49,Santa Cruz,Santa Cruz de la Sierra,EVANGELICO BUENAS NUEVAS,1,0,1,0,0,0,,13,Más de un año,13,"Ciencia, Tecnología y Producción",1,AGETIC,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,34,Tarija,Tarija,LA PAZ Mañana,1,0,0,0,0,0,,9,Más de un año,9,"Vida, Tierra y Territorio",1,Manejo de aula virtual ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,Oruro,Oruro,LA SALLE TARDE,1,1,1,0,0,0,,10,Más de un año,6,"Vida, Tierra y Territorio",1,Tic UNEFCO,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,La Paz,El Alto,HUAYNA POTOSI MAÑANA,1,0,1,0,0,0,,20,Más de un año,6,Comunidad y Sociedad,1,Uso de las tics,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,29,La Paz,El Alto,JESUS MARIA FE Y ALEGRIA,1,1,1,0,0,0,,7,Más de un año,2,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,47,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,27,Más de un año,24,"Vida, Tierra y Territorio",1,"Edición de imagen,audio y vídeo",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,Tarija,Tarija,JOSE MANUEL AVILA 2 Tarde,1,0,0,0,0,0,,25,Más de un año,4,Cosmos y Pensamiento,1,Capacitacion para manejo kipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,31,Tarija,Tarija,JOSE MANUEL AVILA 1 Mañana,0,0,1,0,0,0,,6,Más de un año,3,Cosmos y Pensamiento,1,Classrom ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,53,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,30,Más de un año,28,Comunidad y Sociedad,1,"Edición de vídeo,audio e imagen",1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,No,No,No
+Sí,Femenino,50,La Paz,El Alto,SIMON BOLIVAR TARDE,0,0,1,0,0,0,,25,Más de un año,15,Cosmos y Pensamiento,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,30,La Paz,El Alto,HUAYNA POTOSI MAÑANA,1,0,0,0,0,0,,4,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,36,La Paz,El Alto,VILLA VICTORIA,1,0,0,0,0,0,,15,Más de un año,12,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,48,La Paz,La Paz,MARIEN GARTEN C,1,0,1,0,0,0,Diplomado ,24,Más de un año,7,"Vida, Tierra y Territorio",1,Tics ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,57,La Paz,El Alto,ALTO DE LA ALIANZA MAÑANA,1,0,1,0,0,0,,25,Más de un año,19,Comunidad y Sociedad,1,Si he recibido capacitación de manejo de TiCs  a través de UNEFCO,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,52,Santa Cruz,Santa Cruz de la Sierra,NACIONAL FLORIDA I,0,0,1,0,0,0,,22,Más de un año,18,Cosmos y Pensamiento,1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,37,La Paz,El Alto,HUAYNA POTOSI MAÑANA,0,0,1,0,0,0,,13,Más de un año,9,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,48,La Paz,La Paz,HUGO DAVILA A,1,0,0,0,0,0,,20,Más de un año,11,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,36,La Paz,El Alto,VILLA VICTORIA,1,0,1,0,0,0,,14,Más de un año,4,"Vida, Tierra y Territorio",1,Mantenimiento de Kuaas,1,Computadora de escritorio,6,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,50,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,1,1,0,0,0,,17,Más de un año,5,"Ciencia, Tecnología y Producción",1,INCLUSIÓN DIGITAL,1,Computadora de escritorio,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,37,La Paz,La Paz,LA PAZ A,0,0,1,0,0,0,,7,Más de un año,1,"Ciencia, Tecnología y Producción",1,"Redes,software libre",1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,30,La Paz,La Paz,ISAAC MALDONADO REQUE,0,0,1,0,0,0,,7,Más de un año,4,Cosmos y Pensamiento,0,,0,,NA,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,44,La Paz,La Paz,HUGO DAVILA A,1,1,0,0,0,0,,29,Más de un año,9,"Vida, Tierra y Territorio",1,Inclusión digital ,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,30,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,8,Más de un año,1,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Masculino,54,Pando,Cobija,MADRE NAZARIA TARDE,1,0,1,1,0,0,,20,Más de un año,10,Comunidad y Sociedad,1,basico,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,31,La Paz,El Alto,VILLA VICTORIA,0,1,0,0,0,0,,8,Más de un año,4,"Ciencia, Tecnología y Producción",1,TICs,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,62,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,1,0,0,0,0,0,,35,Más de un año,17,"Ciencia, Tecnología y Producción",1,Instalación de computadoras,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,0,0,1,0,0,0,,12,Más de un año,6,Cosmos y Pensamiento,1,Uso del classrom,1,Computadora portátil,2,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,54,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,0,1,0,,34,Más de un año,2,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,51,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,0,0,0,,15,Más de un año,4,"Ciencia, Tecnología y Producción",1,Profocom,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,46,Tarija,Tarija,NACIONAL SAN LUIS Mañana,0,0,1,0,0,0,,24,Más de un año,5,Cosmos y Pensamiento,1,"uso de programas de sofware libre, conocimiento libre y educación basada en tecnologias",1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,43,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,1,0,0,0,0,0,,16,Más de un año,16,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,62,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,1,0,1,1,0,0,,35,Más de un año,28,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,60,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,35,Más de un año,34,Comunidad y Sociedad,1,Classrom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,38,La Paz,El Alto,COSMOS 79 MAÑANA,1,0,0,0,0,0,,7,Más de un año,3,"Vida, Tierra y Territorio",1,AGETIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,60,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,0,0,0,,35,Más de un año,16,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,34,La Paz,El Alto,PUERTO DE MEJILLONES CIUDAD SATELITE,1,0,0,0,0,0,,12,Más de un año,4,Comunidad y Sociedad,1,Uso de las TICs dentro del aula ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,57,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,0,0,0,,32,Más de un año,5,"Vida, Tierra y Territorio",1,Ofimatica,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,41,Tarija,San Lorenzo,JULIO SUCRE Mañana,1,0,1,0,0,0,,16,Más de un año,11,Cosmos y Pensamiento,1,Interactuando con las Kuaas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,30,Tarija,Tarija,CASTELFORT CASTELLANOS I Mañana,1,0,1,1,0,0,,6,Más de un año,7,Comunidad y Sociedad,1,de gobernacion,1,Computadora portátil,4,1,1,Dotada por el ministerio,Sí,Sí,Sí,No
+Sí,Femenino,46,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,21,Menos de un año,NA,Comunidad y Sociedad,1,Manejo de softeare y paquetes de window,1,Computadora de escritorio,3,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Masculino,32,Santa Cruz,Santa Cruz de la Sierra,JOSEFINA GOITIA I,0,0,1,0,0,0,,5,Más de un año,5,"Vida, Tierra y Territorio",1,Ronotica educativa,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,COSMOS 79 MAÑANA,1,0,0,0,0,0,,10,Más de un año,5,Comunidad y Sociedad,1,capacitación con los voluntarios de la Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,39,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,14,Más de un año,4,Comunidad y Sociedad,1,Programa de inclusión digital ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,65,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,0,0,0,,38,Más de un año,10,Comunidad y Sociedad,1,Realice el uso adecuado de paquetes tecnológico e inclusión digital,1,Computadora de escritorio,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,37,La Paz,El Alto,PARAISO B,1,0,0,0,0,0,,7,Menos de un año,NA,Comunidad y Sociedad,1,Aplicación de programa mapas mentales ,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,55,La Paz,La Paz,SAN SIMON DE AYACUCHO A,0,0,1,0,0,0,,32,Más de un año,7,Cosmos y Pensamiento,1,Programa de inclusión digital ,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,44,Chuquisaca,Sucre,MCAL. SUCRE B,0,0,1,0,0,0,Diplomado,22,Más de un año,19,Cosmos y Pensamiento,1,Ofimatica,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,58,La Paz,El Alto,ADELA ZAMUDIO,1,0,1,0,1,0,,35,Más de un año,10,"Ciencia, Tecnología y Producción",1,clases del ministerio de educación,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,43,Oruro,Oruro,JUAN MISAEL SARACHO SECUNDARIA,0,0,1,1,0,0,psicología,23,Más de un año,6,Cosmos y Pensamiento,1,actualización,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Masculino,56,La Paz,La Paz,LA MERCED B,1,0,0,0,0,0,,33,Más de un año,30,Comunidad y Sociedad,1,Edicion en audio y video,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,Tarija,San Lorenzo,JULIO SUCRE Mañana,0,0,1,0,0,0,,28,Más de un año,20,"Ciencia, Tecnología y Producción",1,Google drive,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,41,La Paz,El Alto,JESUS MARIA FE Y ALEGRIA,1,0,1,1,0,0,,15,Más de un año,11,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,49,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,1,0,0,0,,23,Más de un año,13,Comunidad y Sociedad,1,Uso kuas,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,60,La Paz,La Paz,FUERZAS ARMADAS DE LA NACION B,1,0,1,1,0,0,,29,Más de un año,4,Comunidad y Sociedad,1,Manejo de kuas,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,48,La Paz,El Alto,AYACUCHO TARDE,1,0,1,0,0,0,,22,Más de un año,20,Comunidad y Sociedad,1,Talleres de agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,38,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,1,0,0,0,0,0,,12,Menos de un año,NA,Comunidad y Sociedad,0,,0,,NA,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,42,La Paz,La Paz,SIMON RODRIGUEZ CARREÑO,0,0,1,0,0,0,,15,Más de un año,9,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+No,Femenino,30,Tarija,Tarija,JESUS DE NAZARETH Tarde,0,0,1,0,0,0,,8,Más de un año,3,"Vida, Tierra y Territorio",1,Windows  basico,1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Masculino,56,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,1,0,1,0,,27,Más de un año,17,Comunidad y Sociedad,1,Aplicaciones de software,1,Computadora portátil,7,1,3,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,Tarija,Tarija,JOSE MANUEL AVILA 2 Tarde,1,1,1,0,0,0,,13,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,Santa Cruz,Santa Cruz de la Sierra,EVANGELICO BUENAS NUEVAS,0,0,1,0,0,0,,33,Más de un año,12,"Vida, Tierra y Territorio",1,uso de quipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,27,Tarija,San Lorenzo,JULIO SUCRE Mañana,0,0,1,1,0,0,,3,Más de un año,3,"Ciencia, Tecnología y Producción",1,"Diplomado en Tecnologias de la informacion y comunicacion TIC'S, Interactuando con las TIC'S",1,Computadora portátil,1,0,NA,Por algún familiar,No,Sí,No,Sí
+Sí,Femenino,49,La Paz,La Paz,ISAAC MALDONADO REQUE,1,0,1,0,0,0,,9,Más de un año,7,Cosmos y Pensamiento,1,Programa de inclusión digital,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,40,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,1,0,0,0,,22,Más de un año,11,Comunidad y Sociedad,1,manejo de las quipus,1,Computadora portátil,3,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,35,La Paz,El Alto,DR. CARLOS MONTENEGRO,1,0,0,0,0,0,,10,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,4,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,40,La Paz,El Alto,ELIZARDO PEREZ TARDE,1,0,1,0,0,0,Peinados cotillones,14,Más de un año,2,Cosmos y Pensamiento,1,Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,48,Chuquisaca,Sucre,LOYOLA DE FE Y ALEGRIA B,0,0,1,0,0,0,,24,Más de un año,14,Cosmos y Pensamiento,1,Manejo de kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,38,Tarija,Tarija,JUAN PABLO II Tarde,1,0,0,0,0,0,,17,Más de un año,2,Comunidad y Sociedad,1,uso de actualización de quipus,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,50,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,0,0,1,0,,30,Más de un año,2,Comunidad y Sociedad,1,sobre programas,1,Computadora portátil,3,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,33,La Paz,El Alto,VILLA VICTORIA,0,0,1,0,0,0,,6,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,42,Pando,Cobija,MADRE NAZARIA TARDE,0,0,1,0,0,0,,14,Más de un año,5,Cosmos y Pensamiento,1,uso de TICs en la unidad educativa ,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,59,La Paz,El Alto,VILLA VICTORIA,1,0,1,1,0,0,,32,Más de un año,8,Cosmos y Pensamiento,1,manejo de Tics,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,51,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,1,0,1,0,0,0,,18,Más de un año,15,"Ciencia, Tecnología y Producción",1,manejo de kipus -wod y otras carpetas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,0,0,1,0,0,0,,30,Más de un año,20,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,40,Tarija,Tarija,JUAN PABLO II Tarde,1,0,1,0,0,0,,19,Más de un año,4,"Vida, Tierra y Territorio",1,aula TICS en la unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,40,La Paz,La Paz,DON BOSCO C,0,0,1,0,0,0,,13,Más de un año,13,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,55,Tarija,Tarija,JUAN PABLO II Tarde,0,0,1,0,0,0,,32,Más de un año,18,Comunidad y Sociedad,1,Software Libre,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,45,La Paz,El Alto,ADELA ZAMUDIO,0,0,1,0,0,0,,24,Más de un año,19,"Vida, Tierra y Territorio",1,Agetic ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,36,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,37,La Paz,La Paz,DON BOSCO C,1,0,0,0,0,0,Egresado umsa,12,Más de un año,12,"Ciencia, Tecnología y Producción",1,Proyecto tics umsa,1,Computadora portátil,1,1,3,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,55,Cochabamba,Sacaba,JOSE LEONCIO CAPRILES,1,0,0,0,0,0,,32,Más de un año,28,"Ciencia, Tecnología y Producción",1,software libre,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,39,Santa Cruz,Santa Cruz de la Sierra,EVANGELICO BUENAS NUEVAS,0,0,1,0,0,0,,10,Más de un año,5,Cosmos y Pensamiento,1,Manejo de material didáctico,1,Computadora portátil,2,0,NA,Otro,No,Sí,No,Sí
+Sí,Masculino,55,La Paz,La Paz,ALFREDO VARGAS B,1,0,0,0,0,0,,25,Más de un año,4,Cosmos y Pensamiento,1,manejo programas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,55,La Paz,El Alto,REPUBLICA DEL JAPON MAÑANA,1,0,1,1,0,0,,30,Más de un año,4,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,34,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,0,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,55,La Paz,La Paz,IGNACIO CALDERON FE Y ALEGRIA II,1,0,1,0,0,0,,31,Más de un año,10,Comunidad y Sociedad,1,6tos de secundaria ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,68,La Paz,El Alto,ALMIRANTE MIGUEL GRAU B,1,0,1,0,0,0,,35,Más de un año,18,"Ciencia, Tecnología y Producción",1,"Geogebra, matematica activa",1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,15,Más de un año,10,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por algún familiar,Sí,Sí,No,Sí
+Sí,Femenino,43,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,10,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,20,Más de un año,5,Comunidad y Sociedad,1,Programa digital,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,No
+Sí,Femenino,36,La Paz,El Alto,AYACUCHO TARDE,1,0,1,0,0,0,,13,Más de un año,5,"Vida, Tierra y Territorio",1,Inclusion digital,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,57,La Paz,El Alto,PUERTO DE MEJILLONES CIUDAD SATELITE,1,0,0,0,0,0,,30,Más de un año,15,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,33,La Paz,El Alto,VILLA TUNARI TARDE,1,0,1,1,0,0,,15,Más de un año,4,Cosmos y Pensamiento,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,60,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,35,Más de un año,34,Comunidad y Sociedad,1,Manejo de classrom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,46,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,21,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora de escritorio,3,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,35,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,10,Menos de un año,NA,Comunidad y Sociedad,1,MANEJO DE CLASSROM,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,33,Santa Cruz,Santa Cruz de la Sierra,NACIONAL FLORIDA I,1,0,0,0,0,0,,7,Más de un año,3,Comunidad y Sociedad,1,audiovisión,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,30,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,6,Más de un año,1,"Vida, Tierra y Territorio",1,Manejo de Classrom,1,Computadora de escritorio,2,1,1,Otro,Sí,Sí,No,Sí
+Sí,Femenino,32,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,7,Más de un año,7,"Vida, Tierra y Territorio",1,Manejo de Classrom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,47,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,18,Más de un año,5,Comunidad y Sociedad,1,Inclusion digital,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,65,La Paz,El Alto,VILLA ALEMANIA,1,0,1,0,0,0,,38,Más de un año,11,Comunidad y Sociedad,1,USB y Min.Edu. 2010,1,Computadora portátil,2,1,1,Otro,Sí,Sí,No,Sí
+Sí,Femenino,30,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,1,0,0,,1,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Por algún familiar,Sí,Sí,No,Sí
+Sí,Masculino,50,La Paz,La Paz,NATALIA PALACIOS,1,0,0,0,0,0,,28,Más de un año,10,"Vida, Tierra y Territorio",1,Programa de inclusión digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,32,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,1,0,1,0,0,0,,4,Más de un año,2,"Vida, Tierra y Territorio",1,Aulas TIC,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,44,La Paz,La Paz,ADOLFO COSTA DU RELS,1,0,1,0,0,0,,20,Más de un año,17,Comunidad y Sociedad,1,Audacity,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,32,Cochabamba,Sacaba,SACABA DIURNO,1,0,1,0,1,0,,9,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,De unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,44,La Paz,El Alto,REPUBLICA DEL JAPON MAÑANA,1,1,1,0,0,0,,10,Más de un año,8,"Ciencia, Tecnología y Producción",1,Revolución Educativa y Tecnológica,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,0,1,1,0,0,,24,Más de un año,10,Comunidad y Sociedad,1,Inclusion Digital- Inkscape,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,56,Potosí,Potosí,COPACABANA C,1,0,1,0,0,0,,34,Más de un año,8,"Ciencia, Tecnología y Producción",1,Manejo de las Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,Sí,Sí
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,0,1,0,0,0,,19,Más de un año,9,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,48,La Paz,La Paz,SIMON RODRIGUEZ CARREÑO,0,0,1,0,0,0,,15,Más de un año,5,Comunidad y Sociedad,1,INCLUSION DIGITAL,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,63,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,1,1,0,0,0,,35,Más de un año,33,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,35,La Paz,El Alto,VILLA VICTORIA,0,0,0,1,0,0,,15,Más de un año,6,"Ciencia, Tecnología y Producción",1,UNEFCO INFOGRAFIAS DIGITALES,1,Computadora de escritorio,3,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,52,La Paz,La Paz,ALFREDO VARGAS B,1,0,1,0,0,0,,30,Más de un año,25,"Vida, Tierra y Territorio",1,cursos a distancia de unefco dependiente del ministerio de educación,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,60,La Paz,La Paz,PEDRO POVEDA A,1,0,1,0,0,0,Egresada de la Universidad Salesiana no  Titulada,29,Más de un año,27,"Vida, Tierra y Territorio",1,Para el manejo de las Kuas,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,42,La Paz,La Paz,SIMON RODRIGUEZ CARREÑO,0,0,0,0,1,0,,18,Más de un año,12,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Masculino,35,La Paz,La Paz,LA PAZ A,0,0,1,0,0,0,,3,Menos de un año,NA,"Ciencia, Tecnología y Producción",1,Didáctica ,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,52,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,1,0,0,0,0,0,,25,Más de un año,2,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,30,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,1,0,1,0,,7,Más de un año,2,"Ciencia, Tecnología y Producción",1,,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,47,Oruro,Oruro,LUIS MARIO CAREAGA 2,1,1,0,0,0,0,,4,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,43,Oruro,Oruro,LUIS MARIO CAREAGA 2,1,0,0,0,0,0,,13,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,34,La Paz,El Alto,VILLA VICTORIA,1,1,1,0,0,0,,7,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,40,La Paz,La Paz,FUERZAS ARMADAS DE LA NACION B,1,1,0,0,0,0,,20,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,53,La Paz,El Alto,BICENTENARIO LIBERTADOR SIMON BOLIVAR,1,0,0,0,0,0,,20,Más de un año,12,"Ciencia, Tecnología y Producción",1,Taller sobres las TICs,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,42,Cochabamba,Sacaba,JOSE NICOLAS MALDONADO,1,0,0,0,0,0,,18,Más de un año,3,"Ciencia, Tecnología y Producción",1,Educacion con TIC,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,38,Cochabamba,Sacaba,JOSE NICOLAS MALDONADO,1,0,1,0,0,0,,9,Más de un año,5,Comunidad y Sociedad,1,Educacion con TIC's,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,38,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,0,0,0,0,,11,Más de un año,32,"Vida, Tierra y Territorio",1,mantenimiento de uso de computadoras en el aula TIC ,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,39,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,0,0,0,0,1,0,,8,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,50,La Paz,El Alto,YUNGUYO FE Y ALEGRIA TARDE,0,0,1,1,0,0,,32,Más de un año,3,"Ciencia, Tecnología y Producción",1,geogebra,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,No
+Sí,Femenino,38,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,1,0,0,0,,11,Más de un año,3,Comunidad y Sociedad,1,herramienta tecnologicas para el aula ,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,59,La Paz,La Paz,SAN SIMON DE AYACUCHO A,1,1,1,0,0,0,,35,Más de un año,27,"Ciencia, Tecnología y Producción",1,Programa de inclusión digital,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,51,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,1,0,1,0,,28,Más de un año,5,Cosmos y Pensamiento,1,herramientas tecnológicas para aula (unefco) ,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,56,Tarija,Tarija,EULOGIO RUIZ Mañana,1,0,1,0,0,0,,30,Menos de un año,NA,Comunidad y Sociedad,1,Infoper,1,Computadora de escritorio,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,32,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,1,0,0,0,,11,Más de un año,3,Comunidad y Sociedad,1,Interactuando con las tics operadores de paquetes,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,41,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,1,0,0,0,,10,Más de un año,4,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,37,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,1,0,0,0,,15,Más de un año,11,Comunidad y Sociedad,1,herramientas tecnológicas para el aula (UNEFCO) ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,57,La Paz,La Paz,FELIPE SEGUNDO GUZMÁN,1,0,0,0,0,0,,35,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+No,Masculino,40,Tarija,Tarija,CASTELFORT CASTELLANOS I Mañana,0,0,1,0,0,0,,12,Más de un año,7,"Ciencia, Tecnología y Producción",1,uso de las kuaas,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,39,La Paz,La Paz,ABRAHAM REYES FE Y ALEGRIA,0,0,1,0,0,0,,10,Más de un año,6,"Ciencia, Tecnología y Producción",1,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,38,La Paz,El Alto,INGAVI TARDE,1,0,1,0,0,0,,9,Menos de un año,NA,Comunidad y Sociedad,1,Introducción a las TIC's en Comunicación ,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,36,Santa Cruz,Montero,Nacional Montero,1,0,1,0,0,0,,2,Más de un año,2,"Vida, Tierra y Territorio",1,ofimática básica,1,Computadora portátil,1,1,2,Por algún familiar,Sí,Sí,Sí,Sí
+Sí,Femenino,29,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,0,0,1,0,0,0,,4,Menos de un año,NA,Cosmos y Pensamiento,1,softaware y hardware,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,32,Tarija,Tarija,PAMPA GALANA Tarde,0,0,1,0,0,0,,7,Más de un año,7,Comunidad y Sociedad,1,Dispositivos moviles y aplicaciones moviles.,1,Computadora portátil,3,1,2,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,43,Tarija,Tarija,SAN ROQUE Tarde,0,0,1,0,0,0,,14,Más de un año,3,Cosmos y Pensamiento,1,Curso sobre tics en la Alcaldía,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,52,Tarija,Tarija,SAN ROQUE Tarde,1,0,1,0,0,0,,24,Más de un año,10,Comunidad y Sociedad,1,class rum,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Oruro,Oruro,DONATO VASQUEZ SECUNDARIO,1,0,1,1,0,0,,15,Más de un año,4,Comunidad y Sociedad,1,capacitacion en Centro de Convenciones FNI y capacitacion con voluntarias ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,31,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,1,0,1,1,0,0,,4,Menos de un año,NA,"Vida, Tierra y Territorio",1,manejo de las tic unefco,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,36,Tarija,Tarija,PAMPA GALANA Tarde,1,0,1,1,0,0,,10,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,68,Oruro,Oruro,LA SALLE TARDE,1,0,1,1,0,0,,43,Más de un año,23,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,30,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,0,0,1,0,0,0,,8,Más de un año,8,"Vida, Tierra y Territorio",1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,35,Tarija,Tarija,PAMPA GALANA Tarde,1,0,1,0,0,0,,13,Más de un año,6,Comunidad y Sociedad,1,"manejo de las kuaas, uso de las redes sociales",1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,0,0,1,0,0,0,,16,Más de un año,8,Comunidad y Sociedad,1,RECURSOS TIC EN EL AULA,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,52,Tarija,Tarija,NAZARIA IGNACIA MARCH Tarde,1,0,1,0,0,0,,32,Más de un año,7,Cosmos y Pensamiento,1,Google Drive,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,31,Tarija,Tarija,PAMPA GALANA Tarde,1,1,1,0,0,0,,6,Más de un año,6,"Vida, Tierra y Territorio",0,,1,Computadora portátil,3,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,35,La Paz,El Alto,SAN MARTIN DE PORRES MAÑANA,0,0,1,0,0,0,,12,Más de un año,9,"Ciencia, Tecnología y Producción",1,Tics para matemática ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,48,Chuquisaca,Sucre,MCAL. SUCRE B,1,0,1,0,1,0,,22,Más de un año,14,Comunidad y Sociedad,1,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,LA SALLE TARDE,1,1,1,0,0,0,,12,Más de un año,6,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,46,Chuquisaca,Sucre,MCAL. SUCRE B,1,0,1,1,0,0,,20,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,La Paz,El Alto,VILLA VICTORIA,1,0,0,0,0,0,,9,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,29,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,0,0,1,0,0,0,,6,Más de un año,5,Cosmos y Pensamiento,1,"robotica basiva, ofimatica, mantenimiento CPU",1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,35,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,1,0,1,0,0,0,,6,Más de un año,6,Cosmos y Pensamiento,0,,1,Computadora portátil,1,1,2,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,Chuquisaca,Sucre,MCAL. SUCRE B,0,0,1,0,0,0,,17,Más de un año,5,"Vida, Tierra y Territorio",1,Ofimatica,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,Oruro,Oruro,JESUS DE NAZARETH,0,0,1,0,0,0,,8,Más de un año,2,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,63,Tarija,Tarija,LIDIA DE CAMPOS Tarde,1,0,0,1,0,0,,35,Más de un año,15,Comunidad y Sociedad,1,Winds,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,Santa Cruz,Santa Cruz de la Sierra,MODULO EDUCATIVO EL FUERTE A,1,0,1,0,0,0,,12,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,64,Tarija,Tarija,PAMPA GALANA Tarde,1,0,0,0,0,0,,36,Más de un año,6,Cosmos y Pensamiento,1,Taller de capacitación de quipus y un curso de operador en computadoras,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,47,Oruro,Oruro,DONATO VASQUEZ SECUNDARIO,0,0,0,0,1,0,,22,Más de un año,21,Comunidad y Sociedad,1,Con el programa de Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,37,Tarija,Tarija,PAMPA GALANA Tarde,1,0,1,1,0,0,,11,Más de un año,6,Comunidad y Sociedad,1,El uso de las KUAA,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,47,Oruro,Oruro,DONATO VASQUEZ SECUNDARIO,0,0,0,0,1,0,,22,Más de un año,21,Comunidad y Sociedad,1,Con Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,Potosí,Potosí,COPACABANA C,0,0,1,0,0,0,,17,Más de un año,4,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,41,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,0,0,0,,14,Más de un año,12,"Ciencia, Tecnología y Producción",1,Uso de las kipus,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,60,Tarija,Tarija,NACIONAL SAN LUIS Mañana,0,0,0,1,0,0,,36,Más de un año,14,Cosmos y Pensamiento,1,"Uso de Kuass, elaboración de exámenes digitales uso de herramientas de conocimiento libre, uso de sistema operativo linux y trabajo colaborativo en aula. ",1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,31,Tarija,Tarija,JOSE MANUEL BELGRANO MAÑANA 4 Mañana,1,0,1,1,0,0,,7,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,20,Más de un año,6,Comunidad y Sociedad,1,Capacitaciones de  la Alcaldía ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,57,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,25,Más de un año,18,Comunidad y Sociedad,1,Class rum,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,No
+Sí,Masculino,52,Tarija,Tarija,AVELINA RAÑA 2 Mañana,1,0,1,0,0,0,,18,Más de un año,10,"Ciencia, Tecnología y Producción",1,Geogebra,1,Computadora de escritorio,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,57,Santa Cruz,Santa Cruz de la Sierra,PADRE JAIME GAGNÓN MAÑANA,1,0,1,0,0,0,,30,Más de un año,28,"Vida, Tierra y Territorio",1,Actualizacion tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,33,La Paz,La Paz,IRENE NAVA DE CASTILLO A,1,0,1,0,0,0,,10,Más de un año,5,"Vida, Tierra y Territorio",1,Los de unefco,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,52,Chuquisaca,Sucre,VICTORIA DIEZ (MAÑANA),0,0,1,0,0,0,,24,Más de un año,21,"Ciencia, Tecnología y Producción",1,Ofimatica,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,38,Tarija,Tarija,NACIONAL EUSTAQUIO MENDEZ Mañana,0,0,1,0,0,0,,12,Más de un año,6,Cosmos y Pensamiento,1,uso de clasroom,1,Computadora portátil,2,1,1,Otro,No,Sí,No,Sí
+Sí,Femenino,43,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,1,1,0,0,,18,Más de un año,14,Comunidad y Sociedad,1,Paquete wuor exsel y los paquetes de la agetic examen en linia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,41,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,0,0,1,0,0,0,,19,Más de un año,13,"Vida, Tierra y Territorio",1,Herramientas de Software Libre ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,37,Tarija,Tarija,NACIONAL SAN LUIS Mañana,0,0,1,0,0,0,,12,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,70,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,0,0,0,0,,36,Más de un año,13,Comunidad y Sociedad,1,Uso de sistemas operativos ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,42,La Paz,La Paz,FERROVIARIO,1,1,1,0,0,0,,20,Más de un año,6,Cosmos y Pensamiento,1,Tic's,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,38,Santa Cruz,Santa Cruz de la Sierra,CASTULO CHAVEZ MAÑANA,1,0,0,0,0,0,Diplomado en educación superior ,10,Más de un año,8,Comunidad y Sociedad,1,Uso de las kipus en el aula/ las TIPs en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,30,Tarija,Tarija,NACIONAL SAN LUIS Mañana,0,0,1,0,0,0,,5,Más de un año,1,Comunidad y Sociedad,1,"Uso de tecnología para el mejoramiento de del proceso enseñanza aprendizaje, a través de programas de software libre",1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Tarija,Tarija,NARCISO CAMPERO 2 Tarde,1,0,1,1,0,0,,28,Más de un año,13,Comunidad y Sociedad,1,Class-Room,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,No
+Sí,Femenino,34,Oruro,Oruro,JORGE OBLITAS SECUNDARIA,0,1,0,0,0,0,,3,Más de un año,1,Comunidad y Sociedad,1,Capacitaciones por los voluntarios de AGETIC ,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,48,Tarija,Tarija,NARCISO CAMPERO 2 Tarde,0,0,1,0,0,0,,22,Más de un año,12,Comunidad y Sociedad,1,Class-room,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,No
+Sí,Femenino,54,Oruro,Oruro,JORGE OBLITAS SECUNDARIA,1,0,0,0,0,0,,12,Más de un año,7,Comunidad y Sociedad,1,Capacitaciones del AGETIC,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,No,No,Sí
+Sí,Femenino,45,Tarija,Tarija,LIDIA DE CAMPOS Tarde,1,0,0,0,0,0,,15,Más de un año,12,Comunidad y Sociedad,1,De la alcaldía ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Femenino,44,Chuquisaca,Sucre,LA RECOLETA,1,0,1,0,0,0,,19,Más de un año,15,"Vida, Tierra y Territorio",1,Tics e aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Masculino,46,La Paz,El Alto,HUMBERTO PORTOCARRERO TARDE,1,0,0,1,0,0,,18,Más de un año,5,Cosmos y Pensamiento,1,Filosofía jaqi runa,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,52,Tarija,Tarija,JUAN PABLO II Tarde,1,0,0,0,0,0,,21,Más de un año,15,"Vida, Tierra y Territorio",1,uso de las  kuaas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Chuquisaca,Sucre,LA RECOLETA,0,0,1,0,0,0,,22,Más de un año,19,"Ciencia, Tecnología y Producción",1,Imágenes digitales . Prezi .tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,46,Chuquisaca,Sucre,LA RECOLETA,0,0,1,0,0,0,,22,Más de un año,20,Comunidad y Sociedad,1,Uso de las tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,43,Tarija,Tarija,LIDIA DE CAMPOS Tarde,1,0,0,0,0,0,,10,Más de un año,5,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,Oruro,Oruro,ORURO SECUNDARIA (SECUNDARIA),1,0,1,0,0,0,,34,Más de un año,4,Comunidad y Sociedad,1,Curso de computación Normal Angel Mendoza Justiniano,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,43,Chuquisaca,Sucre,LA RECOLETA,1,1,1,0,0,0,,15,Más de un año,5,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,48,Tarija,Tarija,LIDIA DE CAMPOS Tarde,1,0,1,0,0,0,,26,Más de un año,10,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,34,Tarija,Tarija,JUAN PABLO II Tarde,1,1,1,0,0,0,,10,Más de un año,7,"Ciencia, Tecnología y Producción",1,no recuerdo el nombre del curso,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,50,Chuquisaca,Sucre,LA RECOLETA,1,0,1,0,0,0,,27,Más de un año,22,"Ciencia, Tecnología y Producción",1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,40,Tarija,Tarija,JOSE MANUEL BELGRANO TARDE 4 Tarde,1,1,1,0,0,0,,20,Más de un año,17,Comunidad y Sociedad,1,curso impartido por la alcaldia,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,36,La Paz,El Alto,HUMBERTO PORTOCARRERO TARDE,0,0,0,1,0,0,,9,Más de un año,3,Comunidad y Sociedad,1,talleres de la agetic,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,31,La Paz,El Alto,HUMBERTO PORTOCARRERO TARDE,0,0,0,0,1,0,,10,Más de un año,4,Comunidad y Sociedad,1,OFIMATICA BASICA,1,Computadora portátil,3,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,Tarija,Tarija,JOSE MANUEL BELGRANO TARDE 4 Tarde,1,1,1,0,0,0,,16,Más de un año,7,Comunidad y Sociedad,1,alcaldia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Tarija,Tarija,SAN JERONIMO 2 Tarde,0,0,1,0,0,0,,20,Más de un año,4,"Vida, Tierra y Territorio",1,inclusión digital,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,55,Tarija,Tarija,SAN JERONIMO 2 Tarde,1,0,1,0,0,0,,26,Más de un año,9,Comunidad y Sociedad,1,no,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,56,Tarija,Tarija,SAN JERONIMO 2 Tarde,1,0,1,0,0,0,,16,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,1,0,0,0,,16,Más de un año,16,Cosmos y Pensamiento,1,las TIC. Las aulas virtuales de bienaventuranza,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,47,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,1,1,0,0,,19,Más de un año,13,"Ciencia, Tecnología y Producción",1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,43,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,0,0,0,0,Con lic. En profocom,17,Menos de un año,NA,Comunidad y Sociedad,1,Las TICS,1,Computadora portátil,2,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,36,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,13,Más de un año,10,Comunidad y Sociedad,1,Internet,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,42,Tarija,Tarija,LOURDES Mañana,1,0,0,0,0,0,,5,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,42,Tarija,Tarija,LOURDES Mañana,1,0,0,0,0,0,,13,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,26,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,4,Más de un año,2,"Vida, Tierra y Territorio",1,Ofimática basica y avanzada,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,42,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,1,0,0,,14,Más de un año,14,Cosmos y Pensamiento,0,,0,,NA,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Femenino,52,Chuquisaca,Sucre,LA RECOLETA,0,0,1,0,0,0,,23,Más de un año,23,Comunidad y Sociedad,1,Uso básico de TICs,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,35,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,1,0,0,0,0,0,,8,Más de un año,2,"Ciencia, Tecnología y Producción",1,Las quipus,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,58,Santa Cruz,Santa Cruz de la Sierra,MATEO KULJIS ILIC I,1,0,1,0,1,0,,31,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,29,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,8,Más de un año,3,Comunidad y Sociedad,1,El taller de agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,49,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,1,1,0,0,,24,Más de un año,19,Comunidad y Sociedad,1,Manejo de las tics en el aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,60,Beni,Trinidad,SAN ANTONIO Mañana,1,0,1,0,0,0,,17,Más de un año,2,"Vida, Tierra y Territorio",1,Inclusiom digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+No,Masculino,50,Beni,Trinidad,MARIO SAELLY Mañana,1,0,0,0,0,0,,26,Más de un año,18,Cosmos y Pensamiento,1,Manejo de computadoras para la promocion,1,Computadora portátil,2,0,NA,Otro,Sí,Sí,No,Sí
+Sí,Masculino,50,Beni,Trinidad,MARIO SAELLY Mañana,1,0,1,1,0,0,,18,Más de un año,8,Comunidad y Sociedad,1,Computacion,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,47,Tarija,Tarija,ESTEBAN MIGLIACCI MAÑANA Mañana,1,0,0,0,0,0,,7,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,53,Chuquisaca,Sucre,CARDENAL MAURER,0,0,1,0,0,0,,28,Más de un año,20,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,40,Beni,Trinidad,MARIO SAELLY Mañana,1,0,1,1,0,0,,15,Más de un año,13,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,42,La Paz,El Alto,ADELA ZAMUDIO,0,0,1,0,0,0,,22,Más de un año,10,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,58,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,1,0,1,0,0,0,,27,Más de un año,8,Comunidad y Sociedad,1,Comunicacion,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,31,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,7,Más de un año,1,Comunidad y Sociedad,1,Inclusión Digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,51,Oruro,Oruro,ORURO SECUNDARIA (MAÑANA),1,0,1,0,0,0,,19,Más de un año,18,Comunidad y Sociedad,1,Curso de tecnologia,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,Oruro,Oruro,ORURO SECUNDARIA (MAÑANA),0,0,1,0,0,0,,20,Más de un año,12,"Vida, Tierra y Territorio",1,Inclusión digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,54,Beni,Trinidad,NUESTRA SEÑORA DE FATIMA Mañana,0,0,1,0,0,0,,18,Más de un año,14,Cosmos y Pensamiento,1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,65,Oruro,Oruro,ORURO SECUNDARIA (MAÑANA),0,0,1,0,1,0,,38,Más de un año,2,"Vida, Tierra y Territorio",1,Inclusión digital,1,Computadora portátil,3,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,54,Beni,Trinidad,LA PALMERA Mañana,1,0,1,0,0,0,,19,Más de un año,3,Comunidad y Sociedad,1,Uso de las kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,42,Tarija,Tarija,BOLIVIA 2 Mañana,0,0,1,0,0,0,,18,Más de un año,8,Comunidad y Sociedad,1,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,47,Oruro,Machacamarca,REPUBLICA DE MEXICO,0,0,1,0,0,0,,8,Más de un año,3,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,4,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,50,Oruro,Oruro,LA SALLE TARDE,1,0,1,1,0,0,,23,Más de un año,3,Comunidad y Sociedad,1,Uso de los p rograma office para la eseñanza a los estudiantes,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,47,La Paz,El Alto,AYACUCHO TARDE,1,0,1,0,0,0,,22,Más de un año,19,Comunidad y Sociedad,1,Agetic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,No
+Sí,Femenino,46,La Paz,La Paz,IRENE NAVA DE CASTILLO A,1,0,1,0,0,0,Tecnico Superior UMSA,14,Más de un año,11,"Vida, Tierra y Territorio",1,UNEFCO,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,49,Tarija,Tarija,SAN ROQUE Tarde,1,0,1,0,0,0,,21,Más de un año,8,"Ciencia, Tecnología y Producción",1,clas room,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,58,Tarija,Tarija,SAN JORGE 1 Tarde,1,0,0,0,0,0,,28,Más de un año,4,"Ciencia, Tecnología y Producción",1,classroom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,37,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,1,1,0,0,,11,Más de un año,4,Comunidad y Sociedad,1,Imclusion digital,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,44,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,0,0,0,0,,20,Más de un año,18,"Vida, Tierra y Territorio",1,Inclucion digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,49,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,1,0,0,0,,14,Más de un año,4,"Ciencia, Tecnología y Producción",1,Inclusion digetal,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,0,1,0,0,0,0,,37,Más de un año,6,Comunidad y Sociedad,1,tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,32,Tarija,Tarija,SAN ROQUE Tarde,0,0,1,0,0,0,,7,Más de un año,3,Comunidad y Sociedad,1,Capacitacion en tics de la Alcaldia. ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,49,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,1,0,0,0,,11,Más de un año,9,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+No,Femenino,44,Beni,Trinidad,HORACIO RIVERO EGUEZ Tarde,1,0,1,1,0,0,,11,Más de un año,5,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,43,Tarija,Tarija,SAN ROQUE Tarde,1,1,1,0,0,0,,12,Más de un año,5,"Ciencia, Tecnología y Producción",1,clas room,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,48,Tarija,Tarija,SAN ROQUE Tarde,0,0,1,0,0,0,,22,Más de un año,8,Comunidad y Sociedad,1,De la Alcaldia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,48,Chuquisaca,Sucre,JAIME DE ZUDAÑEZ SECUNDARIA,1,0,1,1,0,0,,12,Más de un año,4,"Ciencia, Tecnología y Producción",1,Uso de kuas,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,42,Tarija,Tarija,SAN ROQUE Tarde,1,0,0,0,0,0,,17,Más de un año,3,Comunidad y Sociedad,1,classroom,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,No,No,Sí
+Sí,Femenino,40,Tarija,Tarija,ESTEBAN MIGLIACCI TARDE Tarde,0,0,1,0,0,0,,5,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,56,La Paz,El Alto,AYACUCHO TARDE,1,0,0,0,0,0,,31,Más de un año,20,Comunidad y Sociedad,1,Maneja de las kuaas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Tarija,Tarija,ESTEBAN MIGLIACCI TARDE Tarde,0,0,1,0,0,0,,8,Más de un año,5,"Vida, Tierra y Territorio",0,,1,Computadora portátil,3,1,2,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,46,Tarija,Tarija,ESTEBAN MIGLIACCI TARDE Tarde,0,0,0,0,1,0,,4,Menos de un año,NA,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,38,Tarija,Tarija,ESTEBAN MIGLIACCI TARDE Tarde,0,0,1,0,1,0,,10,Más de un año,5,Comunidad y Sociedad,1,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,50,Oruro,Machacamarca,REPUBLICA DE MEXICO,0,1,0,0,0,0,,30,Más de un año,30,"Ciencia, Tecnología y Producción",1,Unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+No,Masculino,36,Tarija,Tarija,LIDIA DE CAMPOS Tarde,1,0,0,0,0,0,,12,Más de un año,5,"Ciencia, Tecnología y Producción",1,"Geogebra, hojas de calculo.",1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,56,Beni,Trinidad,OTTO AGUILERA OJEDA Tarde,1,0,1,1,0,0,,34,Más de un año,30,"Ciencia, Tecnología y Producción",1,Utilizacion del Geogebra,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,45,Chuquisaca,Sucre,JAIME DE ZUDAÑEZ SECUNDARIA,1,0,1,0,0,0,,22,Más de un año,7,"Vida, Tierra y Territorio",1,Manejo de las kuass,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,40,Beni,Trinidad,SAN VICENTE I Tarde,1,0,1,0,0,0,,8,Más de un año,5,Cosmos y Pensamiento,1,Uso de las tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,38,Tarija,Tarija,LA PAZ Mañana,0,0,1,0,0,0,,15,Más de un año,13,"Ciencia, Tecnología y Producción",1,Uso de sotwar libre,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,33,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,0,0,1,0,0,0,,12,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,33,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,0,1,0,0,,6,Más de un año,3,Comunidad y Sociedad,1,Inclusión digital ,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,Oruro,Oruro,JESUS DE NAZARETH,1,0,1,1,0,0,,9,Más de un año,2,"Ciencia, Tecnología y Producción",1,INTERACTUANDO EN EL AULA A TRAVÉS DE LAS TIC,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,44,Chuquisaca,Sucre,VICTORIA DIEZ (MAÑANA),1,0,1,1,0,0,,20,Más de un año,18,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,29,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,0,0,1,0,0,0,,9,Más de un año,2,Comunidad y Sociedad,1,Como manejar windos,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,49,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,0,0,0,,25,Más de un año,8,"Ciencia, Tecnología y Producción",1,Agtic,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,47,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,1,0,0,,11,Más de un año,11,"Vida, Tierra y Territorio",1,Inclusión digital ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,35,Tarija,Tarija,BOLIVIA 2 Mañana,0,0,1,0,0,0,,10,Más de un año,3,"Ciencia, Tecnología y Producción",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,54,Tarija,Tarija,BOLIVIA 2 Mañana,1,0,0,0,0,0,,29,Más de un año,1,"Vida, Tierra y Territorio",1,"se aplico Geogebra,kalzium",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,49,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,0,1,0,0,0,,22,Más de un año,9,Comunidad y Sociedad,1,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,55,Tarija,Tarija,BOLIVIA 2 Mañana,0,0,1,0,0,0,,25,Más de un año,5,Cosmos y Pensamiento,0,,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,57,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,1,1,0,0,0,,30,Más de un año,3,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,43,Tarija,Tarija,BOLIVIA 2 Mañana,1,0,0,0,0,0,,14,Más de un año,3,Comunidad y Sociedad,1,"Celeste,LibreOFFICE",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,33,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,0,1,0,0,0,,10,Más de un año,6,Comunidad y Sociedad,1,Uso y Adecuación de las Quipus,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,47,Tarija,Tarija,JUAN XXlll Mañana,1,0,0,0,0,0,,22,Más de un año,8,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,47,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,0,1,0,0,,13,Más de un año,3,"Vida, Tierra y Territorio",1,Material reciclable,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,44,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,1,0,0,,11,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,40,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,1,0,0,,10,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,2,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,34,Beni,Trinidad,ADHEMAR BRAVO MONASTERIO Mañana,1,0,1,0,0,0,,12,Más de un año,8,"Vida, Tierra y Territorio",1,Inclusión digital,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,49,Cochabamba,Sacaba,ELIODORO VILLAZON,0,0,1,0,0,0,,16,Más de un año,8,Comunidad y Sociedad,1,Sextos,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,41,Cochabamba,Sacaba,ELIODORO VILLAZON,0,0,1,0,0,0,,12,Más de un año,12,Cosmos y Pensamiento,1,Si,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,55,Cochabamba,Sacaba,ELIODORO VILLAZON,0,0,1,0,0,0,,17,Más de un año,16,Comunidad y Sociedad,1,Aulas digitales,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,31,Cochabamba,Sacaba,ELIODORO VILLAZON,1,1,1,0,0,0,,7,Más de un año,7,"Vida, Tierra y Territorio",1,Educainnova,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,34,Tarija,Tarija,JOSE MANUEL BELGRANO MAÑANA 4 Mañana,1,0,1,1,0,0,,7,Más de un año,6,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,51,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,Dipolomado,19,Más de un año,15,Cosmos y Pensamiento,1,Quinto secundario,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,36,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,,13,Más de un año,6,Comunidad y Sociedad,1,Informática educativa,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,44,Cochabamba,Sacaba,ELIODORO VILLAZON,0,0,1,0,0,0,,12,Más de un año,10,"Ciencia, Tecnología y Producción",1,Geogebra,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,50,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,20,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,42,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,Diplomado,15,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,No
+Sí,Femenino,47,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,,18,Más de un año,9,Comunidad y Sociedad,1,3⁰A,1,Computadora de escritorio,1,1,1,Por algún familiar,Sí,Sí,Sí,Sí
+Sí,Femenino,35,Cochabamba,Sacaba,JOSE NICOLAS MALDONADO,1,0,1,0,0,0,,7,Más de un año,4,Cosmos y Pensamiento,1,Tecnologias de la informacion,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,52,Tarija,Tarija,TERECERA ORDEN FRANCISCANA 1 Tarde,1,0,1,0,0,0,,25,Más de un año,2,Cosmos y Pensamiento,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,52,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,1,0,0,,26,Más de un año,7,Cosmos y Pensamiento,1,"Sozi, ",1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,Chuquisaca,Sucre,NACIONAL JUNIN SECUNDARIA  (TARDE),1,0,0,0,0,0,,27,Más de un año,4,Comunidad y Sociedad,1,herramientas libres,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Masculino,42,Tarija,Tarija,JUAN XXlll Mañana,1,0,1,0,0,0,,15,Más de un año,5,Cosmos y Pensamiento,1,Inclusión Digital,1,Computadora de escritorio,2,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,28,Tarija,Tarija,TERECERA ORDEN FRANCISCANA 1 Tarde,1,0,1,1,0,0,,8,Más de un año,4,"Vida, Tierra y Territorio",1,Uso de las Kuaas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,34,Tarija,Tarija,CASTELFORT CASTELLANOS Tarde,0,0,1,0,0,0,,8,Más de un año,8,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,42,Tarija,Tarija,SAN JORGE 1 Tarde,1,0,0,0,0,0,,16,Más de un año,4,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,47,Oruro,Oruro,PANTALEON DALENCE 1,1,0,1,0,0,0,,24,Más de un año,24,"Vida, Tierra y Territorio",1,Tics en aula,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,41,Tarija,Tarija,TERESA DE CALCUTA Mañana,1,0,1,0,0,0,,16,Más de un año,11,"Ciencia, Tecnología y Producción",1,uso de TIC,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,56,Tarija,Tarija,OCTAVIO CAMPERO ECHAZU Mañana,0,0,1,1,0,0,,16,Más de un año,6,"Ciencia, Tecnología y Producción",1,FreeMind,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,33,Cochabamba,Sacaba,SACABA DIURNO,1,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,1,Baje tics,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,56,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,32,Más de un año,15,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,35,Tarija,Tarija,TERECERA ORDEN FRANCISCANA 1 Tarde,1,0,1,0,0,0,,11,Más de un año,9,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,53,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,33,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,1,Por cuenta propia,No,Sí,No,Sí
+Sí,Femenino,42,La Paz,La Paz,LA MERCED B,1,0,1,0,0,0,,17,Más de un año,13,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,58,La Paz,La Paz,LA MERCED B,1,0,1,0,0,0,,40,Más de un año,15,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,50,La Paz,El Alto,HUMBERTO PORTOCARRERO TARDE,1,0,1,1,0,0,,18,Más de un año,4,Cosmos y Pensamiento,1,Tic,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,56,Chuquisaca,Sucre,NACIONAL JUNIN SECUNDARIA  (MAÑANA),1,0,0,0,0,0,,33,Más de un año,29,Cosmos y Pensamiento,1,Talleres,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,51,Tarija,Tarija,JUAN XXlll Mañana,1,1,1,0,0,0,,9,Más de un año,4,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,25,Chuquisaca,Sucre,NACIONAL JUNIN SECUNDARIA  (TARDE),0,0,1,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,0,,1,Computadora portátil,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Masculino,28,Cochabamba,Sacaba,SACABA DIURNO,1,0,0,0,0,0,,4,Menos de un año,NA,Comunidad y Sociedad,1,OFIMÁTICA BÁSICA PARÁ MAESTROS Y MAESTRAS,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,44,Chuquisaca,Sucre,NACIONAL JUNIN SECUNDARIA  (TARDE),0,0,1,0,0,0,,20,Más de un año,3,Comunidad y Sociedad,1,Sotware libre,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,33,La Paz,La Paz,VENEZUELA C,1,0,0,0,0,0,,6,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,La Paz,VENEZUELA C,1,0,0,0,0,0,,14,Más de un año,3,Comunidad y Sociedad,1,cursos con Quipus,1,Computadora portátil,2,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,37,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,,12,Más de un año,7,Comunidad y Sociedad,1,Cuarto de secundaria,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,29,La Paz,La Paz,VENEZUELA C,1,0,0,0,0,0,,6,Más de un año,3,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,43,La Paz,La Paz,VENEZUELA C,1,0,0,0,0,0,,17,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Femenino,29,Cochabamba,Sacaba,ELIODORO VILLAZON,1,0,1,0,0,0,,3,Más de un año,2,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,62,Chuquisaca,Sucre,BERNARDO MONTEAGUDO (MAÑANA),1,0,0,0,0,0,,30,Más de un año,16,Comunidad y Sociedad,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,No
+Sí,Femenino,47,Chuquisaca,Sucre,VICTORIA DIEZ (TARDE),0,0,1,0,0,0,,24,Más de un año,19,"Ciencia, Tecnología y Producción",1,Computación paquetes,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,38,Chuquisaca,Sucre,LA RECOLETA,0,0,1,0,0,0,,15,Más de un año,7,Comunidad y Sociedad,1,Sobre programas ,1,Computadora portátil,2,1,1,Otro,Sí,Sí,Sí,Sí
+Sí,Masculino,56,Chuquisaca,Sucre,MANUEL RODRIGUEZ DE QUIROGA A,0,0,1,0,0,0,,13,Más de un año,4,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,1,2,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Oruro,Oruro,ORURO SECUNDARIA (MAÑANA),1,0,1,0,0,0,,20,Más de un año,12,Comunidad y Sociedad,1,Curso de Unefco,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Chuquisaca,Sucre,JOSEFINA GOYTIA,1,0,1,1,0,0,,11,Más de un año,4,Comunidad y Sociedad,1,,1,Computadora de escritorio,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,46,Chuquisaca,Sucre,CARDENAL MAURER,0,0,1,0,0,0,,21,Más de un año,13,Comunidad y Sociedad,1,Uso de las computadoras Kuaas y Classroom,1,Computadora portátil,2,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,40,Chuquisaca,Sucre,MANUEL RODRIGUEZ DE QUIROGA A,1,0,1,0,0,0,Lic. En comunicación social,17,Más de un año,13,Comunidad y Sociedad,1,Aulastelematicas,1,Computadora portátil,1,0,NA,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,43,Chuquisaca,Sucre,DOMINGO SAVIO,0,0,1,0,0,0,,20,Más de un año,1,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,40,Chuquisaca,Sucre,La Palma (D-7)  (MAÑANA),1,0,1,0,0,0,,12,Más de un año,10,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,35,Chuquisaca,Sucre,La Palma (D-7)  (MAÑANA),1,0,1,0,0,0,,16,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+No,Masculino,45,Chuquisaca,Sucre,VICTORIA DIEZ (MAÑANA),0,0,1,0,0,0,,10,Más de un año,5,"Vida, Tierra y Territorio",0,,0,,NA,0,NA,Por cuenta propia,No,No,No,No
+Sí,Femenino,55,Chuquisaca,Sucre,MANUEL RODRIGUEZ DE QUIROGA A,1,0,0,0,0,0,,33,Más de un año,25,Comunidad y Sociedad,1,Virtual Educa,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,16,Más de un año,12,Comunidad y Sociedad,1,kuas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,45,Chuquisaca,Sucre,MANUEL RODRIGUEZ DE QUIROGA A,1,0,1,0,1,0,,10,Más de un año,4,Comunidad y Sociedad,1,Seguridad informática,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,Chuquisaca,Yotala,SANTA ROSA D,1,0,1,1,0,0,,16,Más de un año,6,"Vida, Tierra y Territorio",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Chuquisaca,Sucre,La Palma (D-7)  (MAÑANA),1,0,1,0,0,0,,18,Más de un año,11,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Masculino,28,Chuquisaca,Sucre,La Palma (D-7)  (MAÑANA),1,0,1,0,0,0,,4,Más de un año,1,Comunidad y Sociedad,0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,55,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,0,0,0,0,,29,Más de un año,11,"Vida, Tierra y Territorio",0,,1,Computadora portátil,5,1,2,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,39,La Paz,La Paz,FABRIL 18 DE MAYO II,1,0,1,0,0,0,,11,Más de un año,6,Comunidad y Sociedad,1,El manejo de los Quas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,50,Tarija,Tarija,OCTAVIO CAMPERO ECHAZU Mañana,1,0,1,0,0,0,,18,Más de un año,4,Cosmos y Pensamiento,0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,54,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,10,Más de un año,6,"Vida, Tierra y Territorio",0,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,No,Sí,Sí
+Sí,Femenino,50,Chuquisaca,Sucre,ADEMAR CARVAJAL,0,0,1,0,0,0,,16,Más de un año,5,"Ciencia, Tecnología y Producción",1,Sozi e inkscape,1,Computadora de escritorio,1,1,1,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,55,Chuquisaca,Sucre,ADEMAR CARVAJAL,0,0,1,0,0,0,,32,Más de un año,14,Cosmos y Pensamiento,1,Virtual educa,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,22,Más de un año,11,"Vida, Tierra y Territorio",1,Diplomado en informatca educativa,1,Computadora portátil,1,1,1,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,42,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,20,Más de un año,13,"Vida, Tierra y Territorio",1,Uso de las kuas ,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,40,Chuquisaca,Sucre,JOSEFINA GOYTIA,1,0,0,0,0,0,,15,Más de un año,2,Comunidad y Sociedad,1,,1,Computadora portátil,2,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Masculino,41,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,11,Más de un año,3,Comunidad y Sociedad,1,Manejo de nievas tecnologías,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,56,La Paz,La Paz,LA MERCED B,0,0,1,0,0,0,,26,Más de un año,17,Comunidad y Sociedad,1,Manejo de Kuaas,1,Computadora de escritorio,1,0,NA,Dotada por el ministerio,Sí,No,No,No
+Sí,Femenino,34,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,10,Más de un año,7,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,0,NA,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,58,Tarija,Tarija,SAN JORGE 1 Tarde,1,0,0,0,0,0,,30,Más de un año,10,"Ciencia, Tecnología y Producción",1,Capacitación por parte de la alcaldia,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,Sí,Sí
+Sí,Femenino,41,Chuquisaca,Sucre,JOSEFINA GOYTIA,0,0,1,0,0,0,,9,Más de un año,3,"Ciencia, Tecnología y Producción",1,Uso de la TIC ,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Masculino,59,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,33,Más de un año,6,"Ciencia, Tecnología y Producción",1,Dinamicas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Masculino,38,Chuquisaca,Sucre,NACIONAL JUNIN SECUNDARIA  (MAÑANA),1,0,1,0,1,0,,17,Más de un año,1,"Ciencia, Tecnología y Producción",1,Capacitación site Google ,1,Computadora portátil,2,1,1,Por cuenta propia,Sí,Sí,Sí,Sí
+Sí,Masculino,64,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,0,0,0,0,,37,Más de un año,17,Comunidad y Sociedad,1,Manejo de quipus,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,No
+Sí,Femenino,38,Chuquisaca,Sucre,MARIA JOSEFA MUJIA,1,0,0,0,0,0,,10,Menos de un año,NA,"Vida, Tierra y Territorio",0,,1,Computadora de escritorio,1,0,NA,Por cuenta propia,No,Sí,No,Sí
+Sí,Masculino,37,Tarija,Tarija,LA PAZ Mañana,0,0,1,0,0,0,,16,Más de un año,2,"Ciencia, Tecnología y Producción",0,,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,47,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,1,0,0,,22,Más de un año,15,Comunidad y Sociedad,1,Manejo de las kuas y Quipus,1,Computadora portátil,3,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,46,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,0,0,0,0,,17,Más de un año,12,"Vida, Tierra y Territorio",1,Taller  de  manejo de  las  KUAAS ,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
+Sí,Femenino,28,Tarija,Tarija,LA PAZ Mañana,0,0,1,0,0,0,,3,Más de un año,3,Cosmos y Pensamiento,1,manejo kuas,1,Computadora portátil,1,0,NA,Por cuenta propia,No,Sí,Sí,Sí
+Sí,Femenino,36,Chuquisaca,Sucre,JOSEFINA GOYTIA,0,0,1,0,0,0,,10,Más de un año,7,Comunidad y Sociedad,0,,1,Computadora portátil,2,1,1,Dotada por el ministerio,Sí,Sí,No,Sí
+Sí,Femenino,47,Chuquisaca,Sucre,ADEMAR CARVAJAL,0,0,1,0,0,0,,22,Más de un año,19,"Ciencia, Tecnología y Producción",1,ubumtu,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,59,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,0,0,0,0,,31,Más de un año,15,Comunidad y Sociedad,1,Implementación y uso de las Quas,1,Computadora portátil,1,1,1,Dotada por el ministerio,Sí,Sí,Sí,Sí
+Sí,Femenino,45,Chuquisaca,Sucre,DOMINGO SAVIO,1,0,1,0,0,0,,21,Más de un año,11,Cosmos y Pensamiento,1,Educatic,1,Computadora de escritorio,1,0,NA,Por cuenta propia,Sí,Sí,No,Sí
+Sí,Femenino,40,Chuquisaca,Sucre,ADEMAR CARVAJAL,1,0,1,0,0,0,,11,Más de un año,9,"Ciencia, Tecnología y Producción",1,uso.de las Quas,1,Computadora portátil,1,0,NA,Dotada por el ministerio,No,Sí,No,Sí
