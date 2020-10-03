@@ -1,4 +1,5 @@
 # reading X = 3 elements
+import numpy as np
 n = 4
 arr = [''] * (n)
 print(f'array {arr}')

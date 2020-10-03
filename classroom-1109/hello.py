@@ -52,10 +52,30 @@ print(f'If we got {a}, is 5 in {a}?', 5 in a)
 # try except statement
 print('Try except statement')
 
-inp = input('enter a integer:')
-try:
-    i = int(inp)
-    print(3 in b)
-    print('the value is:', i)
-except ValueError as error:
-    print(error, 'a error ocurred')
+#  inp = input('enter a integer:')
+#  try:
+#      i = int(inp)
+#      print(3 in b)
+#      print('the value is:', i)
+#  except ValueError as error:
+#      print(error, 'a error ocurred')
+
+## aritmetics
+a = 6 
+b = 9
+print(9//6)
+print(a%b)
+print(9**2)
+print(a == b)
+print(a != b)
+print(True != True)
+print(a > 4 and b <10)
+print(a > 4 or b <10)
+print(not(a > 40) and  b <10)
+x = [ 5, 7]
+y = [5, 7]
+print(y is not x)
+
+
+
+
